@@ -1,8 +1,8 @@
 [font]
-size = 10
+size = 12
 
 [font.normal]
-family = "FiraCode Nerd Font"
+family = "Hack Nerd Font"
 
 [colors.primary]
 background = "#1e1e2e"

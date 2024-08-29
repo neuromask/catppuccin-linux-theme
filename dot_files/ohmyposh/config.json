@@ -75,7 +75,7 @@
         {
           "foreground": "#eba0ac",
           "style": "diamond",
-          "template": "<#ffffff>\uf6dc</> <#ffffff>RAM:</> {{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB ",
+          "template": "<#ffffff>\udb80\udddd</> <#ffffff>RAM:</> {{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB ",
           "type": "sysinfo"
         }
       ],
@@ -108,7 +108,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": " \uf83c ",
+          "template": " \ue712 ",
           "type": "exit"
         }
       ],
