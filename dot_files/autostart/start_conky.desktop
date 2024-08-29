@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh -c "$HOME/.config/conky/catppuccin-theme/start.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Conky Config Catppuccin
+Name=Conky Catppuccin Start
+Comment[en_US]=Conky Catppuccin
+Comment=Conky Catppuccin
