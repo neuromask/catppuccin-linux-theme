@@ -1,12 +1,12 @@
 <h2 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="192" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
+	<img src="assets/transparent.png" height="30" width="0px"/>
 	Catppuccin Theme for Linux
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<img src="assets/transparent.png" height="30" width="0px"/>
 </h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
-![medium-colored-telegram](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/telegram.svg) Telegram: https://t.me/catppuccin_theme
+![My Skills](assets/linux.png) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
+![medium-colored-telegram](assets/telegram.png) Telegram: https://t.me/catppuccin_theme
 
 ![wall1](https://i.imgur.com/x.png)  
 ![wall2](https://i.imgur.com/x.png)
