@@ -12,6 +12,18 @@
 </h4>
 
 ![linux arch catppuccin](assets/screen_01.png)  
+## System Specs
+OS: Arch Linux  
+Kernel: 6.10.6-arch1-1  
+Shell: zsh 5.9  
+Resolution: 3840x2160 @ 120Hz OLED LG 42"  
+DE: GNOME 46.4  
+Theme: Catppuccin-mocha-pink-standard  
+Icons: WhiteSur-light [GTK2/3]  
+CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
+GPU: NVIDIA GeForce RTX 4090  
+GPU Driver: NVIDIA 560.35.03  
+Memory: 64040MiB  
 ## Dotfiles
 Linux dotfiles for Catppuccin Theme.  
 Conky, VSC, Alacritty, ZSH and other  
