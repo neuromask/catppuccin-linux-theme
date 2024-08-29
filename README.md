@@ -4,9 +4,18 @@
 	Catppuccin Theme for Linux
 	<img src="assets/transparent.png" height="30" width="0px"/>
 </h2>
-
-![linux](assets/linux.png | width=80) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
-![telegram](assets/telegram.png | width=80) Telegram: https://t.me/catppuccin_theme
+<h3 align="center">
+	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
+	<img src="assets/transparent.png" height="30" width="0px"/>
+	Conky, VSC, Alacritty
+	<img src="assets/transparent.png" height="30" width="0px"/>
+</h3>
+<h3 align="center">
+	<img src="assets/telegram.png" width="80" alt="Logo"/><br/>
+	<img src="assets/transparent.png" height="30" width="0px"/>
+	Telegram: https://t.me/catppuccin_theme
+	<img src="assets/transparent.png" height="30" width="0px"/>
+</h3>
 
 ![wall1](https://i.imgur.com/x.png)  
 ![wall2](https://i.imgur.com/x.png)
