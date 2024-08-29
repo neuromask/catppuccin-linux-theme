@@ -12,37 +12,25 @@
 </h4>
 
 ![linux arch catppuccin](assets/screen_01.png)  
-## System Specs
-OS: Arch Linux  
-Kernel: 6.10.6-arch1-1  
-Shell: zsh 5.9  
-Resolution: 3840x2160 @ 120Hz OLED LG 42"  
-DE: GNOME 46.4  
-Theme: Catppuccin-mocha-pink-standard  
-Icons: WhiteSur-light [GTK2/3]  
-CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
-GPU: NVIDIA GeForce RTX 4090  
-GPU Driver: NVIDIA 560.35.03  
-Memory: 64040MiB  
-## Dotfiles
-Linux dotfiles for Catppuccin Theme.  
-Conky, VSC, Alacritty, ZSH and other  
-### Sync and Apply
-**chezmoi** - https://www.chezmoi.io/  
-Manage your dotfiles across multiple diverse machines, securely.
+
 ## Theme
+###  Wallpaper
+You can download wallpapers here:  
+https://t.me/catppuccin_theme
+### Youtube video
+https://www.youtube.com/watch?v=4fpffesqZkk
 ### Visual Studio Code
 You can download Catppuccin Mocha Theme and Icons as modules in VSC
 Mocha Theme: https://github.com/catppuccin/vscode
-### Conky Theme
+### Conky System Monitor
 **Conky** - https://github.com/brndnmtthws/conky  
 Install theme: Add conky folder to home/.config/conky/cyber-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
-### Alacritty Catppuccin Mocha Theme
+### Alacritty Terminal
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Catppuccin-Mocha" 
 https://github.com/rajasegar/alacritty-themes
-### ZSH Theme
+### ZSH Shell
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
 Install zsh and place config .zshrc (dot_zshrc) to home root
 
@@ -57,21 +45,30 @@ Themes: https://github.com/Chick2D/neofetch-themes
 **Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
-###  Wallpaper
-You can download wallpapers here:
-https://drive.google.com/drive/folders/1O0vKdfLp634_CAH0UFZQ4Vkqn4zMdun_?usp=sharing
-### Gnome Theme 
-Tokyo Moon: https://www.pling.com/p/1681315  
-WhiteSur: https://www.pling.com/p/1403328/  
-Orchis: https://www.pling.com/p/1357889/
 ### Icons for Gnome Dock
-Mkos-Big-Sur: https://www.pling.com/p/1400021
-McMojave-circle: https://www.gnome-look.org/p/1305429
+WhiteSur: https://www.gnome-look.org/p/1403328/  
+https://github.com/vinceliuice/WhiteSur-gtk-theme  
 ### Gnome Extensions Sync
 Locate readme.txt in "gnome-extensions" folder and follow instructions.
 ## System
-### Youtube video
-https://www.youtube.com/watch?v=4fpffesqZkk
+### Specs
+OS: Arch Linux  
+Kernel: 6.10.6-arch1-1  
+Shell: zsh 5.9  
+Resolution: 3840x2160 @ 120Hz OLED LG 42"  
+DE: GNOME 46.4  
+Theme: Catppuccin-mocha-pink-standard  
+Icons: WhiteSur-light [GTK2/3]  
+CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
+GPU: NVIDIA GeForce RTX 4090  
+GPU Driver: NVIDIA 560.35.03  
+Memory: 64040MiB  
+### Dotfiles
+Linux dotfiles for Catppuccin Theme.  
+Conky, VSC, Alacritty, ZSH and other  
+**Sync and Apply**
+**chezmoi** - https://www.chezmoi.io/  
+Manage your dotfiles across multiple diverse machines, securely.
 ### Applications  
 Remmina - Remote desktop  
 Mailspring - Mail client  
