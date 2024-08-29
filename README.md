@@ -1,16 +1,16 @@
 <h2 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="30" width="0px"/><br/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Catppuccin Theme for Linux<br/><i>Conky, VSC, Alacritty</i><br/>
-	<img src="assets/transparent.png" height="30" width="0px"/><br/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
 <h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Telegram<br/>https://t.me/catppuccin_theme<br/>
-	<img src="assets/transparent.png" height="20" width="0px"/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 </h4>
 
 ![wall1](https://i.imgur.com/x.png)  
