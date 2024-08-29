@@ -3,13 +3,13 @@
 	<img src="assets/transparent.png" height="30" width="0px"/>
 	Catppuccin Theme for Linux<br/><i>Conky, VSC, Alacritty</i><br/>
 	<img src="assets/transparent.png" height="30" width="0px"/><br/>
-	<img src="assets/linux.png" width="80" alt="Logo"/>
+	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
 <h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<a href="https://t.me/catppuccin_theme" target="_blank"><img src="assets/transparent.png" height="20" width="0px"/></a>
-	Telegram<br/>https://t.me/catppuccin_theme
+	<img src="assets/transparent.png" height="20" width="0px"/>
+	Telegram<br/>https://t.me/catppuccin_theme<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h4>
 
