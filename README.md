@@ -6,13 +6,20 @@
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
+<div style="float:left;clear:none">
 <h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Telegram<br/>https://t.me/catppuccin_theme<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 </h4>
-
+<h4 align="center">
+	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
+	Telegram<br/>https://t.me/catppuccin_theme<br/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
+</h4>
+</div>
 ![wall1](https://i.imgur.com/x.png)  
 ![wall2](https://i.imgur.com/x.png)
 ## Dotfiles
