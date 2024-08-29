@@ -24,6 +24,9 @@ Watch Demo Video
 ### Visual Studio Code
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 Mocha Theme: https://github.com/catppuccin/vscode
+### Spotify
+Spicetify skin - [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/) / https://spicetify.app/  
+Install skin and search in library Catppuccin Theme with Mocha accent
 ### Conky System Monitor
 **Conky** - https://github.com/brndnmtthws/conky  
 Install theme: Add conky folder to home/.config/conky/catppuccin-theme
