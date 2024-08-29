@@ -1,7 +1,10 @@
-# catppuccin-linux-theme
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin Theme for Linux
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-
-# Catppuccin Theme for Linux
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
 ![medium-colored-telegram](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/telegram.svg) Telegram: https://t.me/catppuccin_theme
 
