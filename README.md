@@ -63,12 +63,6 @@ CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz
 GPU: NVIDIA GeForce RTX 4090  
 GPU Driver: NVIDIA 560.35.03  
 Memory: 64040MiB  
-### Dotfiles
-Linux dotfiles for Catppuccin Theme.  
-Conky, VSC, Alacritty, ZSH and other  
-**Sync and Apply**
-**chezmoi** - https://www.chezmoi.io/  
-Manage your dotfiles across multiple diverse machines, securely.
 ### Applications  
 Remmina - Remote desktop  
 Mailspring - Mail client  
@@ -100,6 +94,12 @@ Flameshot - Screenshot capturer
 qBittorrent - Torrent client  
 Davinci Resolve - Video Editor  
 Shutter Encoder - Video Converter
+### Dotfiles
+Linux dotfiles for Catppuccin Theme.  
+Conky, VSC, Alacritty, ZSH and other  
+**Sync and Apply**
+**chezmoi** - https://www.chezmoi.io/  
+Manage your dotfiles across multiple diverse machines, securely.
 
 ___________
-Catppuccin Linux Theme by neuromask 
+Catppuccin Linux Theme by neuromask / https://t.me/catppuccin_theme
