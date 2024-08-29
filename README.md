@@ -5,8 +5,8 @@
 	<img src="assets/transparent.png" height="30" width="0px"/>
 </h2>
 
-![My Skills](assets/linux.png) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
-![medium-colored-telegram](assets/telegram.png) Telegram: https://t.me/catppuccin_theme
+![linux](assets/linux.png | width=80) ElectroTallinn Moonlight theme: Conky, VSC, Alacritty
+![telegram](assets/telegram.png | width=80) Telegram: https://t.me/catppuccin_theme
 
 ![wall1](https://i.imgur.com/x.png)  
 ![wall2](https://i.imgur.com/x.png)
