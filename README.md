@@ -1,17 +1,18 @@
-<h2 align="center">
+<h3 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Catppuccin Theme for Linux<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
-</h2>
-<h4 align="center">
-	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-</h4>
+</h3>
 
 ![linux arch catppuccin](assets/screen_01.png)  
+<h4 align="center">
+	Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/>
+	<img src="assets/transparent.png" height="20" width="0px"/><br/>
+	<img src="assets/tg.png" width="80" alt="Logo"/>
+</h4>
+
+
 
 ## Theme
 ###  Wallpaper
