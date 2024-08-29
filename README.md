@@ -7,13 +7,13 @@
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
 <div style="display: flex;">
-<div>
+<div style="width: 45%">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Telegram<br/>https://t.me/catppuccin_theme<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 </div>
-<div>
+<div style="width: 45%">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Telegram<br/>https://t.me/catppuccin_theme<br/>
