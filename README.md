@@ -1,29 +1,21 @@
 <h2 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	Catppuccin Theme for Linux<br/><i>Conky, VSC, Alacritty</i><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
+	Catppuccin Theme for Linux<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
-<div style="display: flex;">
-<div style="width: 45%">
+<h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Telegram<br/>https://t.me/catppuccin_theme<br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-</div>
-<div style="width: 45%">
-	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	Telegram<br/>https://t.me/catppuccin_theme<br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-</div>
-</div>
+</h4>
+
 ![wall1](https://i.imgur.com/x.png)  
 ![wall2](https://i.imgur.com/x.png)
 ## Dotfiles
 Linux dotfiles for Catppuccin Theme.  
+Conky, VSC, Alacritty, ZSH and other  
 ### Sync and Apply
 **chezmoi** - https://www.chezmoi.io/  
 Manage your dotfiles across multiple diverse machines, securely.
