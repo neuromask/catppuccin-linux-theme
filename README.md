@@ -103,4 +103,11 @@ Conky, VSC, Alacritty, ZSH and other
 Manage your dotfiles across multiple diverse machines, securely.
 
 ___________
-Catppuccin Linux Theme by neuromask / https://t.me/catppuccin_theme
+
+### Contact
+Telegram: [neuromask](https://t.me/neuromask)<br/>
+Reddit: [Reddit Profile](https://www.reddit.com/user/neuromask/)<br/>
+Website: [Nuforms Design](https://nuforms.com)<br/>
+Telegram Catppuccin Wallpapers and more: https://t.me/catppuccin_theme/
+
+
