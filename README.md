@@ -1,6 +1,6 @@
 <h2 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="30" width="0px"/>
+	<img src="assets/transparent.png" height="30" width="0px"/><br/>
 	Catppuccin Theme for Linux<br/><i>Conky, VSC, Alacritty</i><br/>
 	<img src="assets/transparent.png" height="30" width="0px"/><br/>
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
