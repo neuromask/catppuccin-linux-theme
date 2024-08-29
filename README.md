@@ -11,8 +11,7 @@
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 </h4>
 
-![wall1](https://i.imgur.com/x.png)  
-![wall2](https://i.imgur.com/x.png)
+![linux arch catppuccin](assets/screen_01.png)  
 ## Dotfiles
 Linux dotfiles for Catppuccin Theme.  
 Conky, VSC, Alacritty, ZSH and other  
