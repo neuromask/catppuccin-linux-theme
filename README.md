@@ -6,7 +6,7 @@
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h2>
-<div style="float:left;clear:none">
+<div style="display: flex;">
 <div>
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
