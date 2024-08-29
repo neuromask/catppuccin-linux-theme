@@ -34,7 +34,7 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Alacritty Terminal
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Catppuccin-Mocha" 
-https://github.com/rajasegar/alacritty-themes
+https://github.com/rajasegar/alacritty-themes  
 Font: Hack Nerd Font  
 ### ZSH Shell
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
