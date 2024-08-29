@@ -1,18 +1,14 @@
 <h2 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="30" width="0px"/>
-	Catppuccin Theme for Linux
+	Catppuccin Theme for Linux<br/>Conky, VSC, Alacritty
 	<img src="assets/transparent.png" height="30" width="0px"/>
-</h2>
-<h4 align="center">
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/>
-	Linux<br/>Conky, VSC, Alacritty
-	<img src="assets/transparent.png" height="20" width="0px"/>
-</h4>
+</h2>
 <h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/>
+	<a href="https://t.me/catppuccin_theme" target="_blank"><img src="assets/transparent.png" height="20" width="0px"/></a>
 	Telegram<br/>https://t.me/catppuccin_theme
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h4>
