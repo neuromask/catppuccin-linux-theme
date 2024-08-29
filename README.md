@@ -16,16 +16,17 @@
 
 ## Theme
 ###  Wallpaper
-You can download wallpapers here:  
-https://t.me/catppuccin_theme
+https://t.me/catppuccin_theme  
+Download wallpapers in Telegram Channel
 ### Youtube video
-https://www.youtube.com/watch?v=4fpffesqZkk
+https://youtu.be/7wIWAlp8DGY  
+Watch Demo Video
 ### Visual Studio Code
-You can download Catppuccin Mocha Theme and Icons as modules in VSC
+You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 Mocha Theme: https://github.com/catppuccin/vscode
 ### Conky System Monitor
 **Conky** - https://github.com/brndnmtthws/conky  
-Install theme: Add conky folder to home/.config/conky/cyber-theme
+Install theme: Add conky folder to home/.config/conky/catppuccin-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Alacritty Terminal
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
@@ -49,8 +50,6 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ### Icons for Gnome Dock
 WhiteSur: https://www.gnome-look.org/p/1403328/  
 https://github.com/vinceliuice/WhiteSur-gtk-theme  
-### Gnome Extensions Sync
-Locate readme.txt in "gnome-extensions" folder and follow instructions.
 ## System
 ### Specs
 OS: Arch Linux  
