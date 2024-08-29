@@ -6,15 +6,15 @@
 </h2>
 <h4 align="center">
 	<img src="assets/linux.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="30" width="0px"/>
-	Conky, VSC, Alacritty
-	<img src="assets/transparent.png" height="30" width="0px"/>
+	<img src="assets/transparent.png" height="20" width="0px"/>
+	Linux<br/>Conky, VSC, Alacritty
+	<img src="assets/transparent.png" height="20" width="0px"/>
 </h4>
 <h4 align="center">
 	<img src="assets/tg.png" width="80" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="30" width="0px"/>
-	Telegram: https://t.me/catppuccin_theme
-	<img src="assets/transparent.png" height="30" width="0px"/>
+	<img src="assets/transparent.png" height="20" width="0px"/>
+	Telegram<br/>https://t.me/catppuccin_theme
+	<img src="assets/transparent.png" height="20" width="0px"/>
 </h4>
 
 ![wall1](https://i.imgur.com/x.png)  
