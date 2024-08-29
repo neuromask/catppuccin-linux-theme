@@ -35,7 +35,7 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Catppuccin-Mocha" 
 https://github.com/rajasegar/alacritty-themes
-Font: Hack Nerd Font
+Font: Hack Nerd Font  
 ### ZSH Shell
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
 Install zsh and place config .zshrc (dot_zshrc) to home root
@@ -43,7 +43,7 @@ Install zsh and place config .zshrc (dot_zshrc) to home root
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Fonts: `oh-my-posh font install`  
-Font: Hack Nerd Font
+Font: Hack Nerd Font  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
 
 **Neofetch** - [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
