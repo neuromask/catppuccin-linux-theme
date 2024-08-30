@@ -31,6 +31,10 @@ Install skin and search in library Catppuccin Theme with Mocha accent
 **Conky** - https://github.com/brndnmtthws/conky  
 Install theme: Add conky folder to home/.config/conky/catppuccin-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
+### Ulauncher App Launcher
+**Ulauncher** - https://ulauncher.io/  
+Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
+Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
 ### Alacritty Terminal
 **Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 Themes to choose: "Catppuccin-Mocha" 
