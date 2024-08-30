@@ -105,7 +105,9 @@ Conky, VSC, Alacritty, ZSH and other
 **Sync and Apply**
 **chezmoi** - https://www.chezmoi.io/  
 Manage your dotfiles across multiple diverse machines, securely.
-
+### Setup Roomtour
+![roomtour1](assets/p1.jpg)  
+![roomtour2](assets/p2.jpg)  
 ___________
 
 ### Contact
