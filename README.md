@@ -99,6 +99,7 @@ Flameshot - Screenshot capturer
 qBittorrent - Torrent client  
 Davinci Resolve - Video Editor  
 Shutter Encoder - Video Converter
+Ulauncher - Neat app launcher
 ### Dotfiles
 Linux dotfiles for Catppuccin Theme.  
 Conky, VSC, Alacritty, ZSH and other  
