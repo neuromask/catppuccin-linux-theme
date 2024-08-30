@@ -21,6 +21,9 @@ Download wallpapers in Telegram Channel
 ### Youtube video
 https://youtu.be/7wIWAlp8DGY  
 Watch Demo Video
+### Spotify Playlist
+https://spti.fi/catppuccin  
+Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 ### Visual Studio Code
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 Mocha Theme: https://github.com/catppuccin/vscode
