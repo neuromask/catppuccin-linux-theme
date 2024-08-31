@@ -62,6 +62,10 @@ https://github.com/Chick2D/neofetch-themes - Themes
 https://github.com/vinceliuice/WhiteSur-icon-theme  
 **OMkos-Big-Sur** - https://www.gnome-look.org/p/1400021  
 https://github.com/zayronxio/Mkos-Big-Sur  
+### Blender
+https://github.com/Dalibor-P/blender  
+Open Blender's settings and theme installation dialogue: `Edit → Preferences → Themes → Install.`  
+Browse to where you downloaded the theme and install the .xml file (.config/blender in thisrepo).  
 ## System
 ### Specs
 OS: Arch Linux  
