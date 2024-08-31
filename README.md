@@ -25,43 +25,43 @@ Watch Demo Video
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 ### Visual Studio Code
+https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
-Mocha Theme: https://github.com/catppuccin/vscode
-### Spotify
-Spicetify skin - [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/) / https://spicetify.app/  
-Install skin and search in library Catppuccin Theme with Mocha accent
+### Spotify / Spicetify
+[Installation Guide](https://spicetify.app/docs/advanced-usage/installation/) / https://spicetify.app/  
+Install Spicetify and search in Themes for Catppuccin with Mocha accent
 ### Conky System Monitor
-**Conky** - https://github.com/brndnmtthws/conky  
-Install theme: Add conky folder to home/.config/conky/catppuccin-theme
+https://github.com/brndnmtthws/conky  
+Theme installation: Add conky folder to home/.config/conky/catppuccin-theme
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Ulauncher App Launcher
-**Ulauncher** - https://ulauncher.io/  
+https://ulauncher.io/  
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
-### Alacritty Terminal
-**Alacritty** - [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
-Themes to choose: "Catppuccin-Mocha" 
-https://github.com/rajasegar/alacritty-themes  
-Font: Hack Nerd Font  
 ### ZSH Shell
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
-Install zsh and place config .zshrc (dot_zshrc) to home root
-
+Install zsh and place config .zshrc (dot_zshrc) to home root  
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
-Fonts: `oh-my-posh font install`  
+Install fonts: `oh-my-posh font install`  
 Font: Hack Nerd Font  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
-
-**Neofetch** - [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
-Themes: https://github.com/Chick2D/neofetch-themes
-
 **Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
+### Alacritty Terminal
+[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
+https://github.com/rajasegar/alacritty-themes - "Catppuccin-Mocha"   
+Font: Hack Nerd Font  
+Installation: Copy alacritty folder to .config
+### Neofetch
+[Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
+https://github.com/Chick2D/neofetch-themes - Themes  
 ### Icons for Gnome Dock
-WhiteSur: https://www.gnome-look.org/p/1405756  
+**WhiteSur** - https://www.gnome-look.org/p/1405756  
 https://github.com/vinceliuice/WhiteSur-icon-theme  
+**OMkos-Big-Sur** - https://www.gnome-look.org/p/1400021  
+https://github.com/zayronxio/Mkos-Big-Sur  
 ## System
 ### Specs
 OS: Arch Linux  
