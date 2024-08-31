@@ -60,8 +60,8 @@ Themes: https://github.com/Chick2D/neofetch-themes
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
 ### Icons for Gnome Dock
-WhiteSur: https://www.gnome-look.org/p/1403328/  
-https://github.com/vinceliuice/WhiteSur-gtk-theme  
+WhiteSur: https://www.gnome-look.org/p/1405756  
+https://github.com/vinceliuice/WhiteSur-icon-theme  
 ## System
 ### Specs
 OS: Arch Linux  
