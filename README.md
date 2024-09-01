@@ -32,8 +32,8 @@ Install it and enable: User themes, Dash to dock
 
 **GNOME Shell Theme**  
 Download from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
-Place it here `/home/.themes/Catppuccin-GnomeShell`  
-And gtk-4.0 folder here `/home/.config/gtk-4.0`  
+Place it here `/home/.themes/Catppuccin-GnomeTheme`  
+And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
 
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
