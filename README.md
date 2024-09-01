@@ -5,7 +5,7 @@
 	<img src="assets/transparent.png" height="20" width="0px"/>
 </h3>
 <p align="center">
-<img src="./assets/screen_01.png" width="70%"/>
+<img src="./assets/screen_01.png" width="80%"/>
 </p>
 <h4 align="center">
 	Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/>
@@ -18,9 +18,9 @@
 <summary>Catppuccin Mocha</summary>
 <img src="assets/transparent.png" height="20" width="0px"/>
 <p align="center">
-	<img src="./assets/screen_02.png" width="70%"/>  
-	<img src="./assets/p1.jpg" width="70%"/>  
-	<img src="./assets/p2.jpg" width="70%"/>  
+	<img src="./assets/screen_02.png" width="80%"/>  
+	<img src="./assets/p1.jpg" width="80%"/>  
+	<img src="./assets/p2.jpg" width="80%"/>  
 </p>
 </details>
 
