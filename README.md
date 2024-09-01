@@ -21,6 +21,11 @@ Download wallpapers in Telegram Channel
 ### Youtube video
 https://youtu.be/7wIWAlp8DGY  
 Watch Demo Video
+### GNOME
+**Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
+Install/use it to control shell theme and dock icons   
+**Extension Manager** https://flathub.org/apps/com.mattjakeman.ExtensionManager  
+Install it and enable: User themes, Dash to dock  
 ### Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
