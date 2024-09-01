@@ -24,6 +24,7 @@ Watch Demo Video
 ### GNOME
 **Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
+
 **Extension Manager** https://github.com/mjakeman/extension-manager  
 Install it and enable: User themes, Dash to dock  
 ### Spotify Playlist
@@ -46,11 +47,13 @@ Alternatively, you can install from here: https://github.com/catppuccin/ulaunche
 ### ZSH Shell
 **ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
 Install zsh and place config .zshrc (dot_zshrc) to home root  
+
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Install fonts: `oh-my-posh font install`  
 Font: Hack Nerd Font  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
+
 **Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
@@ -65,6 +68,7 @@ https://github.com/Chick2D/neofetch-themes - Themes
 ### Icons for Gnome Dock
 **WhiteSur** - https://www.gnome-look.org/p/1405756  
 https://github.com/vinceliuice/WhiteSur-icon-theme  
+
 **OMkos-Big-Sur** - https://www.gnome-look.org/p/1400021  
 https://github.com/zayronxio/Mkos-Big-Sur  
 ### Blender
