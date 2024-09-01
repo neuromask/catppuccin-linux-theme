@@ -13,7 +13,7 @@
 </h4>
 
 
-## Media
+## :stars: Media
 ###  Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
@@ -23,7 +23,7 @@ Watch Demo Video
 ### Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
-## Theme
+## :smiley_cat: Theme
 ### GNOME
 **Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
@@ -79,7 +79,7 @@ Installation: Copy alacritty folder to .config
 ### Neofetch
 [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
 https://github.com/Chick2D/neofetch-themes - Themes  
-## System
+## :computer: System
 ### Specs
 OS: Arch Linux  
 Kernel: 6.10.6-arch1-1  
