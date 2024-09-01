@@ -45,8 +45,9 @@ https://ulauncher.io/
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
 ### ZSH Shell
-**ZSH Config** - https://github.com/wszqkzqk/easy-zsh-config  
-Install zsh and place config .zshrc (dot_zshrc) to home root  
+**ZSH** - [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
+https://github.com/wszqkzqk/easy-zsh-config  
+Install ZSH and place config .zshrc to `/home` root  
 
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
