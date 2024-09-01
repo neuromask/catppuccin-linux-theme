@@ -27,6 +27,8 @@ Install/use it to control shell theme and dock icons
 
 **Extension Manager** https://github.com/mjakeman/extension-manager  
 Install it and enable: User themes, Dash to dock  
+**Catppuccinn Shell Theme** download from this repo `/dot_files/.themes/Catppuccin-GnomeShell`  
+Place it here `/home/.themes/Catppuccin-GnomeShell`  
 ### Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
