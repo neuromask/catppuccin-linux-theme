@@ -13,14 +13,17 @@
 </h4>
 
 
-
-## Theme
+## Media
 ###  Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
 ### Youtube video
 https://youtu.be/7wIWAlp8DGY  
 Watch Demo Video
+### Spotify Playlist
+https://spti.fi/catppuccin  
+Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
+## Theme
 ### GNOME
 **Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
@@ -28,17 +31,24 @@ Install/use it to control shell theme and dock icons
 **Extension Manager** https://github.com/mjakeman/extension-manager  
 Install it and enable: User themes, Dash to dock  
 
-**Catppuccinn Shell Theme** download from this repo `/dot_files/.themes/Catppuccin-GnomeShell`  
+**GNOME Shell Theme**  
+Download from this repo `/dot_files/.themes/Catppuccin-GnomeShell`  
 Place it here `/home/.themes/Catppuccin-GnomeShell`  
-### Spotify Playlist
-https://spti.fi/catppuccin  
-Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
+
+**GNOME Dock Icons**  
+Download and use Gnome Tweaks to select  
+[WhiteSur](https://www.gnome-look.org/p/1400021) / https://github.com/vinceliuice/WhiteSur-icon-theme  
+[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 ### Spotify / Spicetify
 [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/) / https://spicetify.app/  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
+### Blender
+https://github.com/Dalibor-P/blender  
+Open Blender's settings and theme installation dialogue: `Edit → Preferences → Themes → Install.`  
+Browse to where you downloaded the theme and install the .xml file (.config/blender in thisrepo). 
 ### Conky System Monitor
 https://github.com/brndnmtthws/conky  
 Theme installation: Add conky folder to home/.config/conky/catppuccin-theme
@@ -69,16 +79,6 @@ Installation: Copy alacritty folder to .config
 ### Neofetch
 [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
 https://github.com/Chick2D/neofetch-themes - Themes  
-### Icons for Gnome Dock
-**WhiteSur** - https://www.gnome-look.org/p/1405756  
-https://github.com/vinceliuice/WhiteSur-icon-theme  
-
-**OMkos-Big-Sur** - https://www.gnome-look.org/p/1400021  
-https://github.com/zayronxio/Mkos-Big-Sur  
-### Blender
-https://github.com/Dalibor-P/blender  
-Open Blender's settings and theme installation dialogue: `Edit → Preferences → Themes → Install.`  
-Browse to where you downloaded the theme and install the .xml file (.config/blender in thisrepo).  
 ## System
 ### Specs
 OS: Arch Linux  
