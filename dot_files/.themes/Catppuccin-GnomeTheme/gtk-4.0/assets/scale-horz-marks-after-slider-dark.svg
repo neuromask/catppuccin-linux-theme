@@ -4,7 +4,7 @@
    <stop stop-color="#1e1e2e" offset="1"/>
   </linearGradient>
   <linearGradient id="color-primary-light" x1="4" x2="19.997" y1="4" y2="4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#f5c2e7" offset="1"/>
+   <stop stop-color="#eba0ac" offset="1"/>
   </linearGradient>
  </defs>
  <g id="scale-horz-marks-before-slider-dark" transform="rotate(180,12,12)">
