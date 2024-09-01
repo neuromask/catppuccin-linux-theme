@@ -12,7 +12,6 @@
 	<img src="assets/tg.png" width="80" alt="Logo"/>
 </h4>
 
-
 ## :stars: Media
 ###  Wallpaper
 https://t.me/catppuccin_theme  
@@ -122,7 +121,7 @@ Tor - Secure browser
 Flameshot - Screenshot capturer  
 qBittorrent - Torrent client  
 Davinci Resolve - Video Editor  
-Shutter Encoder - Video Converter
+Shutter Encoder - Video Converter  
 Ulauncher - Neat app launcher
 ### Dotfiles
 Linux dotfiles for Catppuccin Theme.  
@@ -135,7 +134,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 ![roomtour2](assets/p2.jpg)  
 ___________
 
-### Contact
+## :incoming_envelope: Contact
 Telegram: [neuromask](https://t.me/neuromask)<br/>
 Reddit: [Reddit Profile](https://www.reddit.com/user/neuromask/)<br/>
 Website: [Nuforms Design](https://nuforms.com)<br/>
