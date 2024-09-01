@@ -38,10 +38,10 @@ And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`
 
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
-Get from this repo `/dot_files/.icons/WhiteSur`  
-Place it here `/home/.icons/WhiteSur`  
+Get from this repo `/dot_files/.icons/WhiteSur.zip`  
+Unzip and place it here `/home/.icons/WhiteSur`  
 
-[WhiteSur](https://www.gnome-look.org/p/1400021) / https://github.com/vinceliuice/WhiteSur-icon-theme  
+[WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
 [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
