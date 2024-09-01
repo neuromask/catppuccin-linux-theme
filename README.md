@@ -31,12 +31,16 @@ Install/use it to control shell theme and dock icons
 Install it and enable: User themes, Dash to dock  
 
 **GNOME Shell Theme**  
-Download from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
+Download and use Gnome Tweaks to select  
+Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
 And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
 
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
+Get from this repo `/dot_files/.icons/WhiteSur`  
+Place it here `/home/.icons/WhiteSur`  
+
 [WhiteSur](https://www.gnome-look.org/p/1400021) / https://github.com/vinceliuice/WhiteSur-icon-theme  
 [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
 ### Visual Studio Code
