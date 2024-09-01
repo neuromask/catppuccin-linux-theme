@@ -64,7 +64,7 @@ Alternatively, you can install from here: https://github.com/catppuccin/ulaunche
 ### ZSH Shell
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
 https://github.com/wszqkzqk/easy-zsh-config  
-Install ZSH and place config .zshrc to `/home` root  
+Install ZSH and place config to `/home/.zshrc` 
 
 **Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
