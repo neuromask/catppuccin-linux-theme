@@ -55,6 +55,9 @@ Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
 And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
 
+Alternatively, you can use [Gradience](https://gradienceteam.github.io/) app and select there Catppuccin Mocha Theme  
+https://github.com/GradienceTeam/Gradience
+
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.icons/WhiteSur.zip`  
