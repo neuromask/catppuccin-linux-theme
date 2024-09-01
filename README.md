@@ -40,7 +40,14 @@ Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 Install/use it to control shell theme and dock icons   
 
 **Extension Manager** https://github.com/mjakeman/extension-manager  
-Install it and enable: User themes, Dash to dock  
+Alternatively, you can use Chrome Extension and the website to install extensions https://extensions.gnome.org/  
+Install and enable: 
+- [Dash to Dock](https://github.com/micheleg/dash-to-dock)  
+- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube)
+- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
+- [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main)
+- [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
+- [Blur my Shell](https://github.com/aunetx/blur-my-shell)
 
 **GNOME Shell Theme**  
 Download and use Gnome Tweaks to select  
