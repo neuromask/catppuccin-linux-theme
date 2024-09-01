@@ -24,7 +24,7 @@ Watch Demo Video
 ### GNOME
 **Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
-**Extension Manager** https://flathub.org/apps/com.mattjakeman.ExtensionManager  
+**Extension Manager** https://github.com/mjakeman/extension-manager  
 Install it and enable: User themes, Dash to dock  
 ### Spotify Playlist
 https://spti.fi/catppuccin  
