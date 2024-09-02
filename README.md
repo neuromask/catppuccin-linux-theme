@@ -42,18 +42,18 @@ Install/use it to control shell theme and dock icons
 **Extension Manager** https://github.com/mjakeman/extension-manager  
 Alternatively, you can use Chrome Extension and the website to install extensions https://extensions.gnome.org/  
 Install and enable: 
-- [Dash to Dock](https://github.com/micheleg/dash-to-dock)  
-- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube)
-- [Space Bar](https://github.com/christopher-l/space-bar)
-- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
-- [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main)
-- [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
-- [Blur my Shell](https://github.com/aunetx/blur-my-shell)
-- [Arc Menu](https://github.com/fishears/Arc-Menu)
-- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
-- [Caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)
-- [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy)
-- [Vitals](https://github.com/corecoding/Vitals)
+- [Dash to Dock](https://github.com/micheleg/dash-to-dock) - Control Dock Icons
+- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - 3D Workspace Switcher
+- [Space Bar](https://github.com/christopher-l/space-bar) - Workspace Indicator in Topbar
+- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window animation effects
+- [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main) - Quick Navigation (or use Ulauncher app instead)
+- [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect) - Window drag effects
+- [Blur my Shell](https://github.com/aunetx/blur-my-shell) - Adding blur effects
+- [Arc Menu](https://github.com/fishears/Arc-Menu) - App launcher in Topbar
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Stores clipboard history
+- [Caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) - Never sleep
+- [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
+- [Vitals](https://github.com/corecoding/Vitals) - System Monitor
 
 **GNOME Shell Theme**  
 Download and use Gnome Tweaks to select  
