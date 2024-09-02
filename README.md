@@ -14,6 +14,7 @@
 </h4>
 
 ## 🌿 Preview
+
 <details>
 <summary>Catppuccin Mocha</summary>
 <img src="assets/transparent.png" height="20" width="0px"/>
@@ -34,7 +35,8 @@ Watch Demo Video
 ### Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
-## :smiley_cat: Theme
+
+## :smiley_cat: GNOME Theme
 
 ### Gnome Tweaks 
 https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
@@ -57,7 +59,7 @@ Install and enable:
 - [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
 
-### GNOME Shell Theme  
+### Shell Theme  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
@@ -68,14 +70,16 @@ _Also, I suggest to use Gradience app with preset to theme unthemed parts to 100
 [Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
 Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
-### GNOME Dock Icons  
+### Dock Icons  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.icons/WhiteSur.zip`  
 Unzip and place it here `/home/.icons/WhiteSur`  
 
 [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
-[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
+[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur 
+
 ## 🍉 Apps
+
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
@@ -104,7 +108,9 @@ You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e6
 ### Telegram
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
+
 ## ⌨️ Terminals
+
 ### Black Box Terminal
 https://github.com/yonasBSD/blackbox-terminal  
 Nice and simple terminal.  
@@ -137,7 +143,9 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ### Neofetch
 [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
 https://github.com/Chick2D/neofetch-themes - Themes  
+
 ## :computer: System
+
 ### Specs
 OS: Arch Linux  
 Kernel: 6.10.6-arch1-1  
@@ -191,6 +199,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 ___________
 
 ## :incoming_envelope: Contact
+
 Telegram: [neuromask](https://t.me/neuromask)<br/>
 Reddit: [Reddit Profile](https://www.reddit.com/user/neuromask/)<br/>
 Website: [Nuforms Design](https://nuforms.com)<br/>
