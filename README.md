@@ -55,8 +55,10 @@ Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
 And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
 
-Alternatively, you can use [Gradience](https://gradienceteam.github.io/) app and select there Catppuccin Mocha Theme  
-https://github.com/GradienceTeam/Gradience
+_Alternatively, you can use:_  
+https://github.com/GradienceTeam/Gradience  
+[Gradience](https://gradienceteam.github.io/) app to select Catppuccin Mocha Theme  
+Import Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
