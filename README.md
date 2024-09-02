@@ -92,15 +92,21 @@ Install Mocha Maroon theme: Add ulauncher folder to your ./config folder
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
 
 ## ⌨️ Terminals
-### Tilix terminal
-https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
+### Black Box Terminal
+https://github.com/yonasBSD/blackbox-terminal  
+Nice and simple terminal.  
+Catppuccin Theme: https://github.com/catppuccin/blackbox
 ### Alacritty Terminal
 [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
 https://github.com/rajasegar/alacritty-themes - "Catppuccin-Mocha"   
 Installation: Copy `.config/alacritty` from this repo
+### Tilix Terminal
+https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
 ### Any Terminal Contex Menu
 https://github.com/Stunkymonkey/nautilus-open-any-terminal  
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
+Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup default terminal for context menu:  
+`/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
 ### ZSH Shell
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
 https://github.com/wszqkzqk/easy-zsh-config  
