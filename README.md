@@ -48,6 +48,11 @@ Install and enable:
 - [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main)
 - [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
 - [Blur my Shell](https://github.com/aunetx/blur-my-shell)
+- [Arc Menu](https://github.com/fishears/Arc-Menu)
+- [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator)
+- [Caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine)
+- [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy)
+- [Vitals](https://github.com/corecoding/Vitals)
 
 **GNOME Shell Theme**  
 Download and use Gnome Tweaks to select  
