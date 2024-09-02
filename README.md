@@ -44,6 +44,7 @@ Alternatively, you can use Chrome Extension and the website to install extension
 Install and enable: 
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock)  
 - [Desktop Cube](https://github.com/Schneegans/Desktop-Cube)
+- [Space Bar](https://github.com/christopher-l/space-bar)
 - [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows)
 - [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main)
 - [Compiz windows effect](https://github.com/hermes83/compiz-windows-effect)
