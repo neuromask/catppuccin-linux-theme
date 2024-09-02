@@ -90,6 +90,17 @@ Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 https://ulauncher.io/  
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
+
+## 💻 Terminals
+### Tilix terminal
+https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
+### Alacritty Terminal
+[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
+https://github.com/rajasegar/alacritty-themes - "Catppuccin-Mocha"   
+Installation: Copy `.config/alacritty` from this repo
+### Any Terminal Contex Menu
+https://github.com/Stunkymonkey/nautilus-open-any-terminal  
+Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
 ### ZSH Shell
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
 https://github.com/wszqkzqk/easy-zsh-config  
@@ -104,11 +115,6 @@ Cheat Sheet: https://www.nerdfonts.com/cheat-sheet
 **Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
-### Alacritty Terminal
-[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
-https://github.com/rajasegar/alacritty-themes - "Catppuccin-Mocha"   
-Font: Hack Nerd Font  
-Installation: Copy alacritty folder to .config
 ### Neofetch
 [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
 https://github.com/Chick2D/neofetch-themes - Themes  
