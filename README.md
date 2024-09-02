@@ -1,4 +1,4 @@
-<h3 align="center">
+⌨️<h3 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Catppuccin Theme for Linux<br/>
@@ -91,7 +91,7 @@ https://ulauncher.io/
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
 
-## 💻 Terminals
+## ⌨️ Terminals
 ### Tilix terminal
 https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
 ### Alacritty Terminal
