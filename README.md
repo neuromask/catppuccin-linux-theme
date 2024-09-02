@@ -35,11 +35,13 @@ Watch Demo Video
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 ## :smiley_cat: Theme
-### GNOME
-**Gnome Tweaks** https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
+
+### Gnome Tweaks 
+https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
 
-**Extension Manager** https://github.com/mjakeman/extension-manager  
+### Extension Manager 
+https://github.com/mjakeman/extension-manager  
 Alternatively, you can use Chrome Extension and the website to install extensions https://extensions.gnome.org/  
 Install and enable: 
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock) - Control Dock Icons
@@ -55,23 +57,25 @@ Install and enable:
 - [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
 
-**GNOME Shell Theme**  
+### GNOME Shell Theme  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
 And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
 
+**Gradience**  
 _Also, I suggest to use Gradience app with preset to theme unthemed parts to 100%:_  
 [Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
 Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
-**GNOME Dock Icons**  
+### GNOME Dock Icons  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.icons/WhiteSur.zip`  
 Unzip and place it here `/home/.icons/WhiteSur`  
 
 [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
 [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
+## 🍉 Apps
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
