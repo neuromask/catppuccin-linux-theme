@@ -57,7 +57,7 @@ And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`
 
 _Also, I suggest to use Gradience app with preset to theme unthemed parts to 100%:_  
 [Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
-Import Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
+Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
 **GNOME Dock Icons**  
 Download and use Gnome Tweaks to select  
