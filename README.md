@@ -1,4 +1,4 @@
-⌨️<h3 align="center">
+<h3 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
 	Catppuccin Theme for Linux<br/>
