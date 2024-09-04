@@ -86,6 +86,7 @@ You can download Catppuccin Mocha Theme and Icons as modules in VSC
 ### Neovim
 Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
 Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
+Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
 ### Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
