@@ -83,42 +83,49 @@ Unzip and place it here `/home/.icons/WhiteSur`
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
+### Neovim
+Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
+Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
 ### Spotify / Spicetify
-[Installation Guide](https://spicetify.app/docs/advanced-usage/installation/) / https://spicetify.app/  
+Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
 ### Blender
-https://github.com/Dalibor-P/blender  
+Relevant Files: [dot_files/.config/blender](dot_files/.config/blender)  
+Website: https://github.com/Dalibor-P/blender  
 Open Blender's settings and theme installation dialogue: `Edit → Preferences → Themes → Install.`  
-Browse to where you downloaded the theme and install the .xml file (.config/blender in thisrepo). 
+Browse and install the .xml file.  
 ### Conky System Monitor
-https://github.com/brndnmtthws/conky  
-Theme installation: Add conky folder to home/.config/conky/catppuccin-theme
+Relevant Files: [dot_files/.config/conky](dot_files/.config/conky)  
+Website: https://github.com/brndnmtthws/conky  
+Theme Installation: Add conky folder to your .config folder
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
 ### Ulauncher App Launcher
-https://ulauncher.io/  
+Relevant Files: [dot_files/.config/ulauncher](dot_files/.config/ulauncher)  
+Website: https://ulauncher.io/  
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
 ### Discord
-Install [BetterDiscord](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)  
+Website: https://betterdiscord.app/ | [Installation Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)  
 Simply add your CSS into your discord settings BetterDiscord > CustomCSS:  
 `@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");`  
 
 You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172#install-betterdiscordctl) up to date with this command  
 `sudo betterdiscordctl self-upgrade`
 ### Telegram
+Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
 
 ## ⌨️ Terminals
 
 ### Black Box Terminal
-https://github.com/yonasBSD/blackbox-terminal  
+Website: https://github.com/yonasBSD/blackbox-terminal  
 Nice and simple terminal.  
 Catppuccin Theme: https://github.com/catppuccin/blackbox
 ### Alacritty Terminal
-[Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md) / https://alacritty.org/  
-https://github.com/rajasegar/alacritty-themes - "Catppuccin-Mocha"   
-Installation: Copy `.config/alacritty` from this repo
+Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)  
+Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
+Themes: https://github.com/rajasegar/alacritty-themes   
 ### Tilix Terminal
 https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
 ### Any Terminal Contex Menu
@@ -127,21 +134,23 @@ Adds option to open any terminal with a right-click from the context menu, rathe
 Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup default terminal for context menu:  
 `/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
 ### ZSH Shell
+Relevant Files: [dot_files/.zshrc](dot_files/.zshrc)  
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
-https://github.com/wszqkzqk/easy-zsh-config  
-Install ZSH and place config to `/home/.zshrc` 
 
-**Oh My Posh** - [Installation Guide](https://ohmyposh.dev/docs/installation/linux) / https://ohmyposh.dev/  
+**Oh My Posh**
+Website: https://ohmyposh.dev/ | [Installation Guide](https://ohmyposh.dev/docs/installation/linux)  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Install fonts: `oh-my-posh font install`  
 Font: Hack Nerd Font  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
 
-**Oh My ZSH!** *alternative* - [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e) / https://ohmyz.sh/  
+**Oh My ZSH!**
+Website: https://ohmyz.sh/ | [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e)  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
+
 ### Neofetch
-[Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation) / https://github.com/dylanaraps/neofetch  
+Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
 https://github.com/Chick2D/neofetch-themes - Themes  
 
 ## :computer: System
