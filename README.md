@@ -26,7 +26,7 @@
 </p>
 </details>
 
-## :stars: Media
+## 🌟 Media
 ###  Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
