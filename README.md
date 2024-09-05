@@ -150,6 +150,12 @@ https://github.com/Stunkymonkey/nautilus-open-any-terminal
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
 Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup default terminal for context menu:  
 `/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
+### BTOP
+Resource monitor for the terminal.  
+Relevant Files: [dot_files/.config/btop](dot_files/.config/btop)  
+Website: https://terminaltrove.com/btop/  
+Launch Btop/Bpytop, press `Esc`, and select "Options".  
+Select Catppuccin Theme!  
 ### ZSH Shell
 Relevant Files: [dot_files/.zshrc](dot_files/.zshrc)  
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
