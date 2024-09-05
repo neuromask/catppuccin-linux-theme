@@ -26,7 +26,7 @@
 </p>
 </details>
 
-## 🌟 Media
+## 🌟 Media (˶˃ ᵕ ˂˶)
 ###  Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
@@ -37,7 +37,7 @@ Watch Demo Video
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 
-## 🦆 GNOME Theme
+## 🦆 GNOME Theme ≽^•⩊•^≼
 
 ### Gnome Tweaks 
 https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
@@ -79,7 +79,7 @@ Unzip and place it here `/home/.icons/WhiteSur`
 [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
 [Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur 
 
-## 🍉 Apps
+## 🍉 Apps ^·-·^
 
 ### Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
@@ -118,7 +118,7 @@ Website: https://telegram.org/
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
 
-## 🤖 Terminals
+## 🤖 Terminals ₍^. ̫.^₎
 
 ### Kitty Terminal
 Relevant Files: [dot_files/.config/kitty](dot_files/.config/kitty)  
@@ -164,7 +164,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
 Themes: https://github.com/Chick2D/neofetch-themes  
 
-## :computer: System
+## :computer: System ≽^-˕-^≼
 
 ### Specs
 OS: Arch Linux  
@@ -218,7 +218,7 @@ Conky, VSC, Alacritty, ZSH and other
 Manage your dotfiles across multiple diverse machines, securely.
 ___________
 
-## :incoming_envelope: Contact
+## :incoming_envelope: Contact ⚞ • ⚟
 
 Telegram: [neuromask](https://t.me/neuromask)<br/>
 Reddit: [Reddit Profile](https://www.reddit.com/user/neuromask/)<br/>
