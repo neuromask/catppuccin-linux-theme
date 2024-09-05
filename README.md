@@ -120,9 +120,9 @@ After select it in the Telegram settings.
 ## ⌨️ Terminals
 
 ### Black Box Terminal
+Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/schemes)  
+Catppuccin Theme, you can use Tilix Terminal Profile - it's the same.  
 Website: https://github.com/yonasBSD/blackbox-terminal  
-Nice and simple terminal.  
-Catppuccin Theme: https://github.com/catppuccin/blackbox
 ### Alacritty Terminal
 Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)  
 Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
