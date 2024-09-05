@@ -13,7 +13,7 @@
 	<img src="assets/tg.png" width="80" alt="Logo"/>
 </h4>
 
-## 🦆 Preview
+## 🐱 Preview ᓚ₍ ^. .^₎
 
 <details>
 <summary>Catppuccin Mocha</summary>
@@ -37,7 +37,7 @@ Watch Demo Video
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 
-## :smiley_cat: GNOME Theme
+## 🦆 GNOME Theme
 
 ### Gnome Tweaks 
 https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
