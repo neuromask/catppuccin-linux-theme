@@ -120,10 +120,11 @@ After select it in the Telegram settings.
 
 ## ⌨️ Terminals
 
-### Alacritty Terminal
-Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)  
-Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
-Themes: https://github.com/rajasegar/alacritty-themes   
+### Kitty Terminal
+Relevant Files: [dot_files/.config/kitty](dot_files/.config/kitty)  
+Website: https://github.com/kovidgoyal/kitty | [Installation Guide](https://sw.kovidgoyal.net/kitty/binary/)  
+Themes: https://github.com/dexpota/kitty-themes   
+Note: If you're using Kitty `>0.26.0`, all Catppuccin flavors are already included in Kitty!  
 ### Black Box Terminal
 Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/schemes)  
 Website: https://github.com/yonasBSD/blackbox-terminal  
@@ -134,6 +135,10 @@ Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/scheme
 Website: https://gnunn1.github.io/tilix-web/  
 Open Tilix and select your Tilix profile in Preferences.  
 Click the "Colors" tab and select your theme.  
+### Alacritty Terminal
+Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)  
+Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
+Themes: https://github.com/rajasegar/alacritty-themes   
 ### Any Terminal Contex Menu
 https://github.com/Stunkymonkey/nautilus-open-any-terminal  
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
