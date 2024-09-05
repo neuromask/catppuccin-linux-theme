@@ -128,7 +128,10 @@ Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)
 Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
 Themes: https://github.com/rajasegar/alacritty-themes   
 ### Tilix Terminal
-https://gnunn1.github.io/tilix-web/ / https://github.com/gnunn1/tilix/
+Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/schemes)  
+Website: https://gnunn1.github.io/tilix-web/  
+Open Tilix and select your Tilix profile in Preferences.  
+Click the "Colors" tab and select your theme.  
 ### Any Terminal Contex Menu
 https://github.com/Stunkymonkey/nautilus-open-any-terminal  
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
