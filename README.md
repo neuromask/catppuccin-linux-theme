@@ -1,17 +1,23 @@
-<h3 align="center">
+<h1 align="center">
 	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
 	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	Catppuccin Theme for Linux<br/>
-	<img src="assets/transparent.png" height="20" width="0px"/>
-</h3>
+	Catppuccin Linux Theme 
+</h1>
 <p align="center">
-<img src="./assets/screen_01.png" width="80%"/>
+<img src="./assets/screen_01.png" width="100%"/>
 </p>
 <h4 align="center">
 	Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	<img src="assets/tg.png" width="80" alt="Logo"/>
 </h4>
+
+<p align="center">
+    <a href="https://github.com/neuromask/catppuccin-linux-theme/stargazers"><img src="https://img.shields.io/github/stars/neuromask/catppuccin-linux-theme?colorA=1E1E2E&colorB=eba0ac&style=for-the-badge"></a>
+	<a = href="https://www.gnome.org/"><img src="https://img.shields.io/badge/Arch-Gnome-blue.svg?style=for-the-badge&labelColor=1E1E2E&logo=&logoColor=black&color=A6E3A1"></a> 
+    <a = href="https://t.me/catppuccin_theme"><img src="https://img.shields.io/badge/Telegram-74c7ec?style=for-the-badge&logo=telegram&logoColor=1E1E2E"></a> 
+    <a href="https://github.com/neuromask/catppuccin-linux-theme/issues"><img src="https://img.shields.io/github/issues/neuromask/catppuccin-linux-theme?colorA=1E1E2E&colorB=F9E2AF&style=for-the-badge"></a>
+    <a href="https://github.com/neuromask/catppuccin-linux-theme/blob/main/LICENSE">
+    <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=1E1E2E&colorB=CBA6F7&logo=unlicense&logoColor=b16286&"/></a> 
+</p><br/>
 
 ## 🐱 Preview ᓚ₍ ^. .^₎
 
