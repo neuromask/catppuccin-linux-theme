@@ -25,10 +25,10 @@
 <summary>Catppuccin Mocha</summary>
 <img src="assets/transparent.png" height="20" width="0px"/>
 <p align="center">
-	<img src="./assets/screen_02.png" width="80%"/>  
-	<img src="./assets/screen_03.png" width="80%"/>  
-	<img src="./assets/p1.jpg" width="80%"/>  
-	<img src="./assets/p2.jpg" width="80%"/>  
+	<img src="./assets/screen_02.png" width="49%"/>  
+	<img src="./assets/screen_03.png" width="49%"/>  
+	<img src="./assets/p1.jpg" width="49%"/>  
+	<img src="./assets/p2.jpg" width="49%"/>  
 </p>
 </details>
 
