@@ -155,7 +155,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 ### Neofetch
 Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
-https://github.com/Chick2D/neofetch-themes - Themes  
+Themes: https://github.com/Chick2D/neofetch-themes  
 
 ## :computer: System
 
