@@ -118,7 +118,7 @@ Website: https://telegram.org/
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
 
-## ⌨️ Terminals
+## 🤖 Terminals
 
 ### Kitty Terminal
 Relevant Files: [dot_files/.config/kitty](dot_files/.config/kitty)  
