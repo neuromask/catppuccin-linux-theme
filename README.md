@@ -13,7 +13,7 @@
 	<img src="assets/tg.png" width="80" alt="Logo"/>
 </h4>
 
-## 🌿 Preview
+## 🦆 Preview
 
 <details>
 <summary>Catppuccin Mocha</summary>
