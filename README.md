@@ -164,6 +164,11 @@ Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)
 Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
 Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
 
+### 🔹 Cava
+Relevant Files: [dot_files/.config/cava](dot_files/.config/cava)  
+Website: https://github.com/karlstav/cava  
+Cava is a bar spectrum audio visualizer for terminal or desktop (SDL).
+
 ### 🔹 Yazi
 Relevant Files: [dot_files/.config/yazi](dot_files/.config/yazi)  
 Website: https://github.com/sxyazi/yazi | [Installation Guide](https://yazi-rs.github.io/docs/installation)  
