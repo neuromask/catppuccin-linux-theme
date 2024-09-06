@@ -1,14 +1,8 @@
-<h1 align="center">
-	<img src="assets/cat.png" width="192" alt="Logo"/><br/>
-	<img src="assets/transparent.png" height="20" width="0px"/><br/>
-	Catppuccin Linux Theme 
-</h1>
-<p align="center">
-<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_01.png"><img src="./assets/screen_01.png" width="100%"/></a>
-</p>
-<h4 align="center">
-	Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/>
-</h4>
+<p><img src="assets/transparent.png" height="32" width="0px"/></p>
+<p align="center"><img src="assets/cat.png" width="192" alt="Logo"/></p>
+<h1 align="center">Catppuccin Linux Theme</h1>
+<p align="center"><a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_01.png"><img src="./assets/screen_01.png" width="100%"/></a></p>
+<h4 align="center">Telegram Catppuccin Wallpapers and more<br/>https://t.me/catppuccin_theme<br/></h4>
 
 <p align="center">
     <a href="https://github.com/neuromask/catppuccin-linux-theme/stargazers"><img src="https://img.shields.io/github/stars/neuromask/catppuccin-linux-theme?colorA=1E1E2E&colorB=eba0ac&style=for-the-badge"></a>
