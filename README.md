@@ -48,13 +48,14 @@ And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`
 Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
 ### 🔹 Gnome Tweaks 
-https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
+App: https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
 
-### 🔹 Extension Manager 
-https://github.com/mjakeman/extension-manager  
-Alternatively, you can use Chrome Extension and the website to install extensions https://extensions.gnome.org/  
-Install and enable: 
+### 🔹 Extension Manager
+App: https://github.com/mjakeman/extension-manager  
+Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep)  
+
+**Entesions**
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock) - Control Dock Icons
 - [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - 3D Workspace Switcher
 - [Space Bar](https://github.com/christopher-l/space-bar) - Workspace Indicator in Topbar
