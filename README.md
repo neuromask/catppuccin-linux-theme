@@ -84,10 +84,6 @@ Unzip and place it here `/home/.icons/WhiteSur`
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 
-### 🔹 Neovim
-Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
-Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
-Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
 ### 🔹 Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
@@ -162,6 +158,11 @@ Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup defaul
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 💾 Terminal Apps ₍^. ̫.^₎
+
+### 🔹 Neovim
+Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
+Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
+Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
 
 ### 🔹 Yazi
 Relevant Files: [dot_files/.config/yazi](dot_files/.config/yazi)  
