@@ -1,7 +1,7 @@
-<p><img src="assets/transparent.png" height="32" width="0px"/></p>
+<p><img src="assets/transparent.png" height="24" width="0px"/></p>
 <p align="center"><img src="assets/cat.png" width="192" alt="Logo"/></p>
 <h1 align="center">Catppuccin Linux Theme</h1>
-<p align="center"><a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_01.png"><img src="./assets/screen_01.png" width="100%"/></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_01.png"><img src="./assets/screen_01.png" width="80%"/></a></p>
 <p align="center">
     <a href="https://github.com/neuromask/catppuccin-linux-theme/stargazers"><img src="https://img.shields.io/github/stars/neuromask/catppuccin-linux-theme?colorA=1E1E2E&colorB=eba0ac&style=for-the-badge"></a>
 	<a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/Arch-Gnome-blue.svg?style=for-the-badge&labelColor=1E1E2E&logo=&logoColor=black&color=A6E3A1"></a> 
