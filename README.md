@@ -157,6 +157,11 @@ Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup defaul
 
 ## 💾 Terminal Apps ₍^. ̫.^₎
 
+### 🔹 Yazi
+Relevant Files: [dot_files/.config/yazi](dot_files/.config/yazi)  
+Website: https://github.com/sxyazi/yazi | [Installation Guide](https://yazi-rs.github.io/docs/installation)  
+Blazing fast terminal file manager  
+
 ### 🔹 BTOP
 Relevant Files: [dot_files/.config/btop](dot_files/.config/btop)  
 Website: https://terminaltrove.com/btop/  
