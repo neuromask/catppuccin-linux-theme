@@ -17,20 +17,18 @@
     <a href="https://github.com/neuromask/catppuccin-linux-theme/issues"><img src="https://img.shields.io/github/issues/neuromask/catppuccin-linux-theme?colorA=1E1E2E&colorB=F9E2AF&style=for-the-badge"></a>
     <a href="https://github.com/neuromask/catppuccin-linux-theme/blob/main/LICENSE">
     <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=1E1E2E&colorB=CBA6F7&logo=unlicense&logoColor=b16286&"/></a> 
-</p><br/>
+</p>
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🐱 Preview ᓚ₍ ^. .^₎
 
-<details>
-<summary>Catppuccin Mocha</summary>
-<img src="assets/transparent.png" height="20" width="0px"/>
 <p align="center">
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_02.png"><img src="./assets/screen_02.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_03.png"><img src="./assets/screen_03.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p1.jpg"><img src="./assets/p1.jpg" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p2.jpg"><img src="./assets/p2.jpg" width="49%"/></a>
 </p>
-</details>
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🌟 Media (˶˃ ᵕ ˂˶)
 ### 🔹 Wallpaper
@@ -41,7 +39,8 @@ https://youtu.be/7wIWAlp8DGY
 Watch Demo Video
 ### 🔹 Spotify Playlist
 https://spti.fi/catppuccin  
-Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
+Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.  
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🦆 GNOME Theme ≽^•⩊•^≼
 
@@ -83,7 +82,8 @@ Get from this repo `/dot_files/.icons/WhiteSur.zip`
 Unzip and place it here `/home/.icons/WhiteSur`  
 
 [WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
-[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur 
+[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🍉 Apps ^·-·^
 
@@ -128,6 +128,7 @@ You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e6
 Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🤖 Terminal ₍^. ̫.^₎
 
@@ -159,6 +160,7 @@ https://github.com/Stunkymonkey/nautilus-open-any-terminal
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
 Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup default terminal for context menu:  
 `/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 💾 Terminal Apps ₍^. ̫.^₎
 
@@ -192,6 +194,7 @@ Themes: https://github.com/Chick2D/neofetch-themes
 ### 🔹 Chezmoi
 Website: https://www.chezmoi.io/  
 Manage your dotfiles across multiple diverse machines, securely.
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## :computer: System ≽^-˕-^≼
 
@@ -239,7 +242,7 @@ qBittorrent - Torrent client
 Davinci Resolve - Video Editor  
 Shutter Encoder - Video Converter  
 Ulauncher - Neat app launcher
-___________
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## :incoming_envelope: Contact ⚞ • ⚟
 
