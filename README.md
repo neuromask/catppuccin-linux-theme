@@ -178,16 +178,16 @@ Select Catppuccin Theme!
 
 ### 🔹 ZSH Shell
 Relevant Files: [dot_files/.zshrc](dot_files/.zshrc)  
-[Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
+Shell: [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
 
-**Oh My Posh**
+### 🔹 Oh My Posh
 Website: https://ohmyposh.dev/ | [Installation Guide](https://ohmyposh.dev/docs/installation/linux)  
 Init / Theme setup: `eval "$(oh-my-posh init zsh --config ~/_yourpath_/config.json)"`  
 Install fonts: `oh-my-posh font install`  
 Font: Hack Nerd Font  
 Cheat Sheet: https://www.nerdfonts.com/cheat-sheet  
 
-**Oh My ZSH!**
+### 🔹 Oh My ZSH!
 Website: https://ohmyz.sh/ | [Installation Guide](https://gist.github.com/yovko/becf16eecd3a1f69a4e320a95689249e)  
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
