@@ -37,6 +37,16 @@ Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 
 ## 🦆 GNOME Theme ≽^•⩊•^≼
 
+### 🔹 Shell Theme  
+Download and use Gnome Tweaks to select  
+Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
+Place it here `/home/.themes/Catppuccin-GnomeTheme`  
+And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
+
+### 🔹 Gradience
+[Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
+Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
+
 ### 🔹 Gnome Tweaks 
 https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
@@ -57,17 +67,6 @@ Install and enable:
 - [Caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) - Never sleep
 - [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
-
-### 🔹 Shell Theme  
-Download and use Gnome Tweaks to select  
-Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
-Place it here `/home/.themes/Catppuccin-GnomeTheme`  
-And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
-
-**Gradience**  
-_Also, I suggest to use Gradience app with preset to theme unthemed parts to 100%:_  
-[Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
-Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
 ### 🔹 Dock Icons  
 Download and use Gnome Tweaks to select  
