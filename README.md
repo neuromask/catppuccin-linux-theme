@@ -18,6 +18,8 @@
 <p align="center">
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_02.png"><img src="./assets/screen_02.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_03.png"><img src="./assets/screen_03.png" width="49%"/></a>
+	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_04.png"><img src="./assets/screen_04.png" width="49%"/></a>
+	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_05.png"><img src="./assets/screen_05.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p1.jpg"><img src="./assets/p1.jpg" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p2.jpg"><img src="./assets/p2.jpg" width="49%"/></a>
 </p>
