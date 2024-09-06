@@ -1,0 +1,162 @@
+{
+  "name": "catppuccin",
+  "schemaVersion": 1,
+  "colors": {
+    "background": {
+      "hex": "#1E1E2E",
+      "palette": 235
+    },
+    "foreground": {
+      "hex": "#D9E0EE",
+      "palette": 229
+    },
+    "frame_focused": {
+      "hex": "#96CDFB",
+      "palette": 167
+    },
+    "frame_important": {
+      "hex": "#ABE9B3",
+      "palette": 66
+    },
+    "text_focused": {
+      "hex": "#96CDFB",
+      "palette": 167
+    },
+    "text_active": {
+      "hex": "#B5E8E0",
+      "palette": 142
+    },
+    "text_disabled": {
+      "hex": "#C3BAC6",
+      "palette": 243
+    },
+    "text_hidden": {
+      "hex": "#575268",
+      "palette": 237
+    },
+    "text_warning": {
+      "hex": "#FAE3B0",
+      "palette": 214
+    },
+    "text_error": {
+      "hex": "#F28FAD",
+      "palette": 167
+    },
+    "overlay_background": {
+      "hex": "#302D41",
+      "palette": 239
+    },
+    "overlay_foreground": {
+      "hex": "#D9E0EE",
+      "palette": 223
+    },
+    "overlay_border": {
+      "hex": "#89DCEB",
+      "palette": 109
+    },
+    "overlay_focused_border": {
+      "hex": "#89DCEB",
+      "palette": 167
+    },
+    "overlay_focused_text": {
+      "hex": "#89DCEB",
+      "palette": 167
+    },
+    "shortcuts_background": {
+      "hex": "#302D41",
+      "palette": 239
+    },
+    "shortcuts_foreground": {
+      "hex": "#D9E0EE",
+      "palette": 223
+    },
+    "shortcuts_background_focused": {
+      "hex": "#575268",
+      "palette": 124
+    },
+    "shortcuts_foreground_focused": {
+      "hex": "#F5E0DC",
+      "palette": 229
+    },
+    "button_background_normal": {
+      "hex": "#D9E0EE",
+      "palette": 223
+    },
+    "button_foreground_normal": {
+      "hex": "#575268",
+      "palette": 237
+    },
+    "button_background_active": {
+      "hex": "#DDB6F2",
+      "palette": 142
+    },
+    "button_foreground_active": {
+      "hex": "#1E1E2E",
+      "palette": 235
+    },
+    "header_background": {
+      "hex": "#1E1E2E",
+      "palette": 235
+    },
+    "header_foreground": {
+      "hex": "#D9E0EE",
+      "palette": 243
+    },
+    "footer_background": {
+      "hex": "#E8A2AF",
+      "palette": 132
+    },
+    "footer_foreground": {
+      "hex": "#96CDFB",
+      "palette": 229
+    },
+    "banner_background": {
+      "hex": "#89DCEB",
+      "palette": 66
+    },
+    "banner_foreground": {
+      "hex": "#D9E0EE",
+      "palette": 229
+    },
+    "list_header_background": {
+      "hex": "#1E1E2E",
+      "palette": 237
+    },
+    "list_header_foreground": {
+      "hex": "#DDB6F2",
+      "palette": 214
+    },
+      "list_header_highlighted_background": {
+      "hex": "#DDB6F2",
+      "palette": 214
+    },
+    "list_header_highlighted_foreground": {
+      "hex": "#575268",
+      "palette": 237
+    },
+    "list_item_highlighted_background": {
+      "hex": "#575268",
+      "palette": 142
+    },
+    "list_item_highlighted_foreground": {
+      "hex": "#C9CBFF",
+      "palette": 237
+    },
+    "list_item_active_background": {
+      "hex": "#89DCEB",
+      "palette": 109
+    },
+    "list_item_active_foreground": {
+      "hex": "#1E1E2E",
+      "palette": 235
+    },
+    "list_item_active_highlighted_background": {
+      "hex": "#C9CBFF",
+      "palette": 66
+    },
+    "list_item_active_highlighted_foreground": {
+      "hex": "#575268",
+      "palette": 229
+    }
+  }
+}
