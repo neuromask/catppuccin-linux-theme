@@ -33,23 +33,23 @@
 </details>
 
 ## 🌟 Media (˶˃ ᵕ ˂˶)
-###  Wallpaper
+### 🔹 Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
-### Youtube video
+### 🔹 Youtube video
 https://youtu.be/7wIWAlp8DGY  
 Watch Demo Video
-### Spotify Playlist
+### 🔹 Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 
 ## 🦆 GNOME Theme ≽^•⩊•^≼
 
-### Gnome Tweaks 
+### 🔹 Gnome Tweaks 
 https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
 Install/use it to control shell theme and dock icons   
 
-### Extension Manager 
+### 🔹 Extension Manager 
 https://github.com/mjakeman/extension-manager  
 Alternatively, you can use Chrome Extension and the website to install extensions https://extensions.gnome.org/  
 Install and enable: 
@@ -66,7 +66,7 @@ Install and enable:
 - [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
 
-### Shell Theme  
+### 🔹 Shell Theme  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
 Place it here `/home/.themes/Catppuccin-GnomeTheme`  
@@ -77,7 +77,7 @@ _Also, I suggest to use Gradience app with preset to theme unthemed parts to 100
 [Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
 Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
-### Dock Icons  
+### 🔹 Dock Icons  
 Download and use Gnome Tweaks to select  
 Get from this repo `/dot_files/.icons/WhiteSur.zip`  
 Unzip and place it here `/home/.icons/WhiteSur`  
@@ -87,76 +87,89 @@ Unzip and place it here `/home/.icons/WhiteSur`
 
 ## 🍉 Apps ^·-·^
 
-### Visual Studio Code
+### 🔹 Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
-### Neovim
+
+### 🔹 Neovim
 Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
 Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
 Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
-### Spotify / Spicetify
+### 🔹 Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
-### Blender
+
+### 🔹 Blender
 Relevant Files: [dot_files/.config/blender](dot_files/.config/blender)  
 Website: https://github.com/Dalibor-P/blender  
 Open Blender's settings and theme installation dialogue: `Edit → Preferences → Themes → Install.`  
 Browse and install the .xml file.  
-### Conky System Monitor
+
+### 🔹 Conky System Monitor
 Relevant Files: [dot_files/.config/conky](dot_files/.config/conky)  
 Website: https://github.com/brndnmtthws/conky  
 Theme Installation: Add conky folder to your .config folder
 Autostart: Add start_conky.desktop to home/.autostart/start_conky.desktop
-### Ulauncher App Launcher
+
+### 🔹 Ulauncher App Launcher
 Relevant Files: [dot_files/.config/ulauncher](dot_files/.config/ulauncher)  
 Website: https://ulauncher.io/  
 Install Mocha Maroon theme: Add ulauncher folder to your ./config folder  
 Alternatively, you can install from here: https://github.com/catppuccin/ulauncher  
-### Discord
+
+### 🔹 Discord
 Website: https://betterdiscord.app/ | [Installation Guide](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)  
 Simply add your CSS into your discord settings BetterDiscord > CustomCSS:  
 `@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");`  
 
 You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172#install-betterdiscordctl) up to date with this command  
 `sudo betterdiscordctl self-upgrade`
-### Telegram
+### 🔹 Telegram
 Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
 
-## 🤖 Terminals ₍^. ̫.^₎
+## 🤖 Terminal ₍^. ̫.^₎
 
-### Kitty Terminal
+### 🔹 Kitty Terminal
 Relevant Files: [dot_files/.config/kitty](dot_files/.config/kitty)  
 Website: https://github.com/kovidgoyal/kitty | [Installation Guide](https://sw.kovidgoyal.net/kitty/binary/)  
 Themes: https://github.com/dexpota/kitty-themes   
 Note: If you're using Kitty `>0.26.0`, all Catppuccin flavors are already included in Kitty!  
-### Black Box Terminal
+
+### 🔹 Black Box Terminal
 Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/schemes)  
 Website: https://github.com/yonasBSD/blackbox-terminal  
 Catppuccin Theme, you can use Tilix Terminal Profile - it's the same.  
 Open Black Box, browse, and select theme in Preferences.  
-### Tilix Terminal
+
+### 🔹 Tilix Terminal
 Relevant Files: [dot_files/.config/tilix/schemes](dot_files/.config/tilix/schemes)  
 Website: https://gnunn1.github.io/tilix-web/  
 Open Tilix and select your Tilix profile in Preferences.  
 Click the "Colors" tab and select your theme.  
-### Alacritty Terminal
+
+### 🔹 Alacritty Terminal
 Relevant Files: [dot_files/.config/alacritty](dot_files/.config/alacritty)  
 Website: https://alacritty.org/ | [Installation Guide](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)  
 Themes: https://github.com/rajasegar/alacritty-themes   
-### Any Terminal Contex Menu
+
+### 🔹 Any Terminal Contex Menu
 https://github.com/Stunkymonkey/nautilus-open-any-terminal  
 Adds option to open any terminal with a right-click from the context menu, rather than standard Gnome Console.  
 Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup default terminal for context menu:  
 `/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
-### BTOP
-Resource monitor for the terminal.  
+
+## 💾 Terminal Apps ₍^. ̫.^₎
+
+### 🔹 BTOP
 Relevant Files: [dot_files/.config/btop](dot_files/.config/btop)  
 Website: https://terminaltrove.com/btop/  
+Resource monitor for the terminal.  
 Launch Btop/Bpytop, press `Esc`, and select "Options".  
 Select Catppuccin Theme!  
-### ZSH Shell
+
+### 🔹 ZSH Shell
 Relevant Files: [dot_files/.zshrc](dot_files/.zshrc)  
 [Installation Guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)  
 
@@ -172,13 +185,17 @@ Website: https://ohmyz.sh/ | [Installation Guide](https://gist.github.com/yovko/
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
 
-### Neofetch
+### 🔹 Neofetch
 Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
 Themes: https://github.com/Chick2D/neofetch-themes  
 
+### 🔹 Chezmoi
+Website: https://www.chezmoi.io/  
+Manage your dotfiles across multiple diverse machines, securely.
+
 ## :computer: System ≽^-˕-^≼
 
-### Specs
+### 🔹 Specs
 OS: Arch Linux  
 Kernel: 6.10.6-arch1-1  
 Shell: zsh 5.9  
@@ -190,7 +207,7 @@ CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz
 GPU: NVIDIA GeForce RTX 4090  
 GPU Driver: NVIDIA 560.35.03  
 Memory: 64040MiB  
-### Applications  
+### 🔹 Applications  
 Remmina - Remote desktop  
 Mailspring - Mail client  
 Alacritty - Terminal  
@@ -222,12 +239,6 @@ qBittorrent - Torrent client
 Davinci Resolve - Video Editor  
 Shutter Encoder - Video Converter  
 Ulauncher - Neat app launcher
-### Dotfiles
-Linux dotfiles for Catppuccin Theme.  
-Conky, VSC, Alacritty, ZSH and other  
-**Sync and Apply**
-**chezmoi** - https://www.chezmoi.io/  
-Manage your dotfiles across multiple diverse machines, securely.
 ___________
 
 ## :incoming_envelope: Contact ⚞ • ⚟
