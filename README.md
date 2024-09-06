@@ -121,6 +121,12 @@ You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e6
 Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
+
+### 🔹 qBittorrent
+Website: https://www.qbittorrent.org/  
+Open qBittorrent and go to `Tools > Preferences > Behaviour`  
+Tick the "use custom UI theme" checkbox and select your chosen .qbtheme theme file.  
+Click Apply and restart qBittorrent for the changes to take effect.  
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🤖 Terminal ₍^. ̫.^₎
