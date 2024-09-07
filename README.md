@@ -25,13 +25,21 @@
 </p>
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
+> [!NOTE]
+> _This theme is created for newbies and mediocre Linux users and aims to provide app names and styles. You can follow these steps to install apps and modify different parts of Linux UI.  
+> There is no one command/app to get Catppuccin Theme applied, it's necessary to set it up step by step for yourself.  
+> If you have an exact question regarding some parts you want to install to match the Catppuccin Theme, I'm glad to help._
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
+
 ## 🌟 Media (˶˃ ᵕ ˂˶)
+
 ### 🔹 Wallpaper
 https://t.me/catppuccin_theme  
 Download wallpapers in Telegram Channel
+
 ### 🔹 Youtube video
-https://youtu.be/7wIWAlp8DGY  
-Watch Demo Video
+https://youtu.be/7wIWAlp8DGY | https://youtu.be/UBSmT51ljUA   
+
 ### 🔹 Spotify Playlist
 https://spti.fi/catppuccin  
 Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.  
@@ -39,19 +47,22 @@ Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 
 ## 🦆 GNOME Theme ≽^•⩊•^≼
 
-### 🔹 Shell Theme  
-Download and use Gnome Tweaks to select  
-Get from this repo `/dot_files/.themes/Catppuccin-GnomeTheme`  
-Place it here `/home/.themes/Catppuccin-GnomeTheme`  
-And `Catppuccin-GnomeTheme/gtk-4.0` folder place here `/home/.config/gtk-4.0`  
+### 🔹 Shell Theme
+Relevant Files: `/dot_files/.themes/Catppuccin-GnomeTheme`  
+Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.  
+Copy `Catppuccin-GnomeTheme/gtk-4.0` folder here `/home/.config/gtk-4.0`  
 
 ### 🔹 Gradience
-[Gradience](https://gradienceteam.github.io/) / https://github.com/GradienceTeam/Gradience  
+App: https://gradienceteam.github.io / https://github.com/GradienceTeam/Gradience  
 Import to Gradience and apply Catppuccin Mocha Maroon theme from this repo `/.config/presets/user`  
 
-### 🔹 Gnome Tweaks 
-App: https://docs.rockylinux.org/ru/desktop/gnome/gnome-tweaks/  
-Install/use it to control shell theme and dock icons   
+### 🔹 Dock Icons  
+Relevant Files: `/dot_files/.icons/WhiteSur.zip`  
+Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.   
+
+**Icons**
+[WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
+[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur  
 
 ### 🔹 Extension Manager
 App: https://github.com/mjakeman/extension-manager  
@@ -70,14 +81,6 @@ Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebst
 - [Caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) - Never sleep
 - [Emoji Copy](https://github.com/FelipeFTN/Emoji-Copy) - Quick emoji in Topbar
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
-
-### 🔹 Dock Icons  
-Download and use Gnome Tweaks to select  
-Get from this repo `/dot_files/.icons/WhiteSur.zip`  
-Unzip and place it here `/home/.icons/WhiteSur`  
-
-[WhiteSur](https://www.gnome-look.org/p/1405756) / https://github.com/vinceliuice/WhiteSur-icon-theme  
-[Mkos-Big-Sur](https://www.gnome-look.org/p/1400021) / https://github.com/zayronxio/Mkos-Big-Sur
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## 🍉 Apps ^·-·^
