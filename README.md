@@ -124,6 +124,7 @@ Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)
 After select it in the Telegram settings.
 
 ### 🔹 qBittorrent
+Relevant Files: [dot_files/.config/qbittorrent](dot_files/.config/qbittorrent)  
 Website: https://www.qbittorrent.org/  
 Open qBittorrent and go to `Tools > Preferences > Behaviour`  
 Tick the "use custom UI theme" checkbox and select your chosen .qbtheme theme file.  
