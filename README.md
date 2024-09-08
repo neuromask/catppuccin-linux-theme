@@ -118,10 +118,17 @@ Simply add your CSS into your discord settings BetterDiscord > CustomCSS:
 
 You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172#install-betterdiscordctl) up to date with this command  
 `sudo betterdiscordctl self-upgrade`
+
 ### 🔹 Telegram
 Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
 After select it in the Telegram settings.
+
+### 🔹 Tauon
+Website: https://github.com/Taiko2k/Tauon  
+Relevant Files: [dot_files/.config/tauon](dot_files/.config/tauon)  
+Open `Menu > Settings > Function > Open data folder`  
+Place `Catppuccin.ttheme` inside theme folder.  
 
 ### 🔹 qBittorrent
 Relevant Files: [dot_files/.config/qbittorrent](dot_files/.config/qbittorrent)  
