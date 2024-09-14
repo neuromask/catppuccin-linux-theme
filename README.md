@@ -173,9 +173,9 @@ Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup defaul
 ## 💾 Terminal Apps ₍^. ̫.^₎
 
 ### 🔹 Neovim
-Relevant Files: [dot_files/.config/nvim](dot_files/.config/nvim)  
-Website: https://neovim.io/ | [Installation Guide](https://github.com/neuromask/nvim-config)  
-Plugin / Catppuccin Theme: [dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua](dot_files/.config/nvim/lua/nmask/plugins/colorscheme.lua)  
+Website: https://neovim.io/  
+Config / Catppuccin Theme: https://nvchad.com/  | [Installation Guide](https://nvchad.com/docs/quickstart/install)  
+After installation press `(space) t h` to select Catppuccin Theme.  
 
 ### 🔹 Cava
 Relevant Files: [dot_files/.config/cava](dot_files/.config/cava)  
