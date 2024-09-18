@@ -90,7 +90,7 @@ https://github.com/catppuccin/vscode - Mocha Theme
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 
 ### 🔹 Stylus / Browser Extension
-Relevant Files: [dot_files/other/stylus](dot_files/other/stylus)  
+Relevant Files: [other/stylus](other/stylus)  
 [Chrome / Edge](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?pli=1) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)  
 Add Stylus browser extension, import `.json` file, update styles and sync with your cloud.  
 
