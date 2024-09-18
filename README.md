@@ -221,6 +221,58 @@ Manage your dotfiles across multiple diverse machines, securely.
 
 ## :computer: System ≽^-˕-^≼
 
+### 🔹 Applications  
+- [AppFlowy](https://www.appflowy.io/) - Notes
+- [Audacity](https://www.audacityteam.org/) - Audio files editor
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
+- [BleachBit](https://www.bleachbit.org/) - Cleaner
+- [Blender](https://www.blender.org/) - 3D editor
+- [Brave](https://brave.com/) - Browser
+- [Chrome](https://www.google.com/intl/en/chrome/) - Browser
+- [Conky](https://github.com/brndnmtthws/conky) - System Monitor
+- [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Fan controller
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editor
+- [Discord](https://discord.com/) - Messenger
+- [Element](https://element.io/) - Messenger
+- [Etcher](https://etcher.balena.io/) - USB image maker
+- [Filezilla](https://filezilla-project.org/) - FTP Client
+- [Flameshot](https://flameshot.org/) - Screenshot capturer
+- [Flathub](https://flathub.org/) - App manager
+- [Fontbase](https://fontba.se/) - Font manager
+- [Furnace](https://github.com/tildearrow/furnace) - Chiptune tracker
+- [GIMP](https://www.gimp.org/) - Image editor
+- [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - GPU Info
+- [Gnome tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Gnome tweaker
+- [Gparted](https://gparted.org/) - Partition manager
+- [Gradience](https://gradienceteam.github.io/) - Gnome theme manager
+- [Handbrake](https://handbrake.fr/) - Video converter
+- [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
+- [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
+- [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
+- [Lutris](https://lutris.net/) - Game launcher
+- [Mailspring](https://www.getmailspring.com/) - Mail client
+- [Modrinth](https://modrinth.com/) - Minecraft launcher
+- [OBS](https://obsproject.com) - Stream and video record
+- [OpenRGB](https://openrgb.org/) - Control RGB lights
+- [PortProton](https://linux-gaming.ru/) - Game launcher
+- [Postman](https://www.postman.com/) - DB Request manager
+- [ProtonUp](https://davidotek.github.io/protonup-qt/) - Proton GUI installer
+- [Remmina](https://remmina.org/) - Remote desktop
+- [RetroArch](https://www.retroarch.com/) - Classic game launcher
+- [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
+- [Spotify](https://open.spotify.com/) - Music player
+- [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
+- [Steam](https://store.steampowered.com/) - Game Library
+- [Telegram](https://telegram.org/) - Messenger
+- [Timeshift](https://github.com/teejee2008/timeshift) - Backup manager
+- [Tor](https://www.torproject.org/) - Secure browser
+- [Ulauncher](https://ulauncher.io/) - Neat app launcher
+- [Ventoy](https://www.ventoy.net/en/index.html) - Multi USB ISO
+- [VLC](https://www.videolan.org/vlc/) - Media player
+- [VSC](https://code.visualstudio.com/) - Coding
+- [Waydroid](https://waydro.id/) - Android emulator
+- [qBittorrent](https://www.qbittorrent.org/) - Torrent client
+
 ### 🔹 Specs
 OS: Arch Linux  
 Kernel: 6.10.6-arch1-1  
@@ -233,38 +285,7 @@ CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz
 GPU: NVIDIA GeForce RTX 4090  
 GPU Driver: NVIDIA 560.35.03  
 Memory: 64040MiB  
-### 🔹 Applications  
-Remmina - Remote desktop  
-Mailspring - Mail client  
-Alacritty - Terminal  
-VSC - Coding  
-Spotify - Music player  
-Telegram - Messenger  
-OBS - Stream and video record  
-Gimp - Photoshop in Linux  
-Blender - 3D editor  
-Stacer - System information  
-Conky - System Monitor  
-Steam - Game Library  
-Lutris - Game launcher  
-ProtonUp - Proton GUI installer  
-PortProton - Game launcher  
-MultiMC - Minecraft launcher  
-Flathub - App manager  
-Fontbase - Font manager  
-Discord - Messenger  
-Postman - DB Request manager  
-Gnome tweaks - Gnome tweaker  
-Waydroid - Android emulator  
-Coolero - NZXT control  
-OpenRGB - Control RGB lights  
-Etcher - USB image maker  
-Tor - Secure browser  
-Flameshot - Screenshot capturer  
-qBittorrent - Torrent client  
-Davinci Resolve - Video Editor  
-Shutter Encoder - Video Converter  
-Ulauncher - Neat app launcher
+
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## :incoming_envelope: Contact ⚞ • ⚟
