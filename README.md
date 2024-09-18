@@ -222,6 +222,8 @@ Manage your dotfiles across multiple diverse machines, securely.
 ## :computer: System ≽^-˕-^≼
 
 ### 🔹 Applications  
+Most common apps that I use on Linux setup.  
+
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
