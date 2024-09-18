@@ -89,6 +89,11 @@ Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebst
 https://github.com/catppuccin/vscode - Mocha Theme  
 You can download Catppuccin Mocha Theme and Icons as modules in VSC  
 
+### 🔹 Stylus / Browser Extension
+Relevant Files: [dot_files/other/stylus](dot_files/other/stylus)  
+[Chrome / Edge](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?pli=1) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)  
+Add Stylus browser extension, import `.json` file, update styles and sync with your cloud.  
+
 ### 🔹 Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
