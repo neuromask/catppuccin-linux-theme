@@ -249,6 +249,7 @@ Most common apps that I use on Linux setup.
 - [Gradience](https://gradienceteam.github.io/) - Gnome theme manager
 - [Handbrake](https://handbrake.fr/) - Video converter
 - [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
+- [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Lutris](https://lutris.net/) - Game launcher
@@ -263,6 +264,7 @@ Most common apps that I use on Linux setup.
 - [RetroArch](https://www.retroarch.com/) - Classic game launcher
 - [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
 - [Spotify](https://open.spotify.com/) - Music player
+- [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
 - [Steam](https://store.steampowered.com/) - Game Library
 - [Telegram](https://telegram.org/) - Messenger
