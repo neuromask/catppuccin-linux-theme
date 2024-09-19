@@ -268,6 +268,7 @@ Most common apps that I use on Linux setup.
 - [Remmina](https://remmina.org/) - Remote desktop
 - [RetroArch](https://www.retroarch.com/) - Classic game launcher
 - [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
+- [Showtime](https://kramo.page/showtime/) - Video player
 - [Spotify](https://open.spotify.com/) - Music player
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
