@@ -93,7 +93,7 @@ You can download Catppuccin Mocha Theme and Icons as modules in VSC
 Relevant Files: [other/stylus](other/stylus)  
 [Chrome / Edge / Brave / Arc](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?pli=1) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)  
 Add Stylus browser extension, import `.json` file, update styles and sync with your cloud.  
-
+You can also select your own accent colors and generate `.json` [here](https://ctp-aui.uncenter.dev/).  
 ### 🔹 Spotify / Spicetify
 Website: https://spicetify.app/ | [Installation Guide](https://spicetify.app/docs/advanced-usage/installation/)  
 Install Spicetify and search in Themes for Catppuccin with Mocha accent
