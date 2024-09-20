@@ -121,9 +121,6 @@ Website: https://betterdiscord.app/ | [Installation Guide](https://gist.github.c
 Simply add your CSS into your discord settings BetterDiscord > CustomCSS:  
 `@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");`  
 
-You can then keep [betterdiscordctl](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172#install-betterdiscordctl) up to date with this command  
-`sudo betterdiscordctl self-upgrade`
-
 ### 🔹 Telegram
 Website: https://telegram.org/  
 Install [Catppuccin Mocha Telegram Theme](https://t.me/addtheme/ctp_mocha)  
