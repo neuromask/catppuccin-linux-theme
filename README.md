@@ -51,6 +51,7 @@ Listen to inspiring, soothing pastel Lo-Fi while customizing your comfy place.
 Relevant Files: `/dot_files/.themes/Catppuccin-GnomeTheme`  
 Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to select and apply.  
 Copy `Catppuccin-GnomeTheme/gtk-4.0` folder here `/home/.config/gtk-4.0`  
+Copy `Catppuccin-GnomeTheme/gtk-3.0` folder here `/home/.config/gtk-3.0`  
 
 ### 🔹 Gradience
 App: https://gradienceteam.github.io / https://github.com/GradienceTeam/Gradience  
