@@ -224,9 +224,16 @@ Manage your dotfiles across multiple diverse machines, securely.
 
 ## :computer: System ≽^-˕-^≼
 
-### 🔹 Applications  
-Most common apps that I use on Linux setup.  
+### 🔹 Game Apps
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
+- [Lutris](https://lutris.net/) - Game launcher
+- [PortProton](https://linux-gaming.ru/) - Game launcher
+- [RetroArch](https://www.retroarch.com/) - Classic game launcher
+- [ProtonUp](https://davidotek.github.io/protonup-qt/) - Proton GUI installer
+- [Ryujinx](https://ryujinx.org/) - Nintendo Switch emulator
+- [Steam](https://store.steampowered.com/) - Game Library
 
+### 🔹 Applications
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
@@ -255,22 +262,17 @@ Most common apps that I use on Linux setup.
 - [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
-- [Lutris](https://lutris.net/) - Game launcher
 - [Mailspring](https://www.getmailspring.com/) - Mail client
 - [Modrinth](https://modrinth.com/) - Minecraft launcher
 - [OBS](https://obsproject.com) - Stream and video record
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
-- [PortProton](https://linux-gaming.ru/) - Game launcher
 - [Postman](https://www.postman.com/) - DB Request manager
-- [ProtonUp](https://davidotek.github.io/protonup-qt/) - Proton GUI installer
 - [Remmina](https://remmina.org/) - Remote desktop
-- [RetroArch](https://www.retroarch.com/) - Classic game launcher
 - [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
 - [Showtime](https://kramo.page/showtime/) - Video player
 - [Spotify](https://open.spotify.com/) - Music player
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
-- [Steam](https://store.steampowered.com/) - Game Library
 - [Telegram](https://telegram.org/) - Messenger
 - [Timeshift](https://github.com/teejee2008/timeshift) - Backup manager
 - [Tor](https://www.torproject.org/) - Secure browser
