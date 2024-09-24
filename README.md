@@ -259,6 +259,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Gradience](https://gradienceteam.github.io/) - Gnome theme manager
 - [Handbrake](https://handbrake.fr/) - Video converter
 - [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
+- [Input Remapper](https://github.com/sezanzeb/input-remapper) - Remap keys, macros
 - [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Krita](https://krita.org/) - Photoshop analogue
