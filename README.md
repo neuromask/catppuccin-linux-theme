@@ -261,6 +261,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
 - [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
+- [Krita](https://krita.org/) - Photoshop analogue
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Mailspring](https://www.getmailspring.com/) - Mail client
 - [Modrinth](https://modrinth.com/) - Minecraft launcher
