@@ -220,9 +220,9 @@ Website: https://www.chezmoi.io/
 Manage your dotfiles across multiple diverse machines, securely.
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## :computer: System ≽^-˕-^≼
+## :computer: Apps ≽^-˕-^≼
 
-### 🔹 Game Apps
+### 🔹 Games
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
 - [Lutris](https://lutris.net/) - Game launcher
 - [Modrinth](https://modrinth.com/) - Minecraft launcher
@@ -233,14 +233,14 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Ryujinx](https://ryujinx.org/) - Nintendo Switch emulator
 - [Steam](https://store.steampowered.com/) - Game Library
 
-### 🔹 Music Apps
+### 🔹 Music
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Amberol](https://github.com/adamjatim/amberol) - Music player
 - [Cider](https://cider.sh/) - Apple Music player
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Spotify](https://open.spotify.com/) - Music player
 
-### 🔹 Video Apps
+### 🔹 Video
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editor
 - [Handbrake](https://handbrake.fr/) - Video converter
 - [OBS](https://obsproject.com) - Stream and video record
@@ -248,7 +248,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Showtime](https://kramo.page/showtime/) - Video player
 - [VLC](https://www.videolan.org/vlc/) - Media player
 
-### 🔹 Messenger Apps
+### 🔹 Messenger
 - [Discord](https://discord.com/) - Messenger
 - [Element](https://element.io/) - Messenger
 - [Telegram](https://telegram.org/) - Messenger
@@ -260,7 +260,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Tor](https://www.torproject.org/) - Secure browser
 - [Zen](https://zen-browser.app/) - Mozilla based browser
 
-### 🔹 System Apps
+### 🔹 System
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
 - [BleachBit](https://www.bleachbit.org/) - Cleaner
@@ -296,18 +296,16 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Waydroid](https://waydro.id/) - Android emulator
 - [qBittorrent](https://www.qbittorrent.org/) - Torrent client
 
-### 🔹 Specs
-OS: Arch Linux  
-Kernel: 6.10.6-arch1-1  
-Shell: zsh 5.9  
-Resolution: 3840x2160 @ 120Hz OLED LG 42"  
-DE: GNOME 46.4  
-Theme: Catppuccin-mocha-pink-standard  
-Icons: WhiteSur-light [GTK2/3]  
-CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
-GPU: NVIDIA GeForce RTX 4090  
-GPU Driver: NVIDIA 560.35.03  
-Memory: 64040MiB  
+### 🔹 System Specs
+- CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
+- GPU: NVIDIA GeForce RTX 4090  
+- GPU Driver: NVIDIA 560.35.03  
+- Memory: 64Gb  
+- OS: Arch Linux  
+- Kernel: Linux 6.11.0-5-cachyos  
+- Shell: zsh 5.9  
+- Resolution: 3840x2160 @ 120Hz OLED LG 42"  
+- DE: GNOME 47  
 
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
