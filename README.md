@@ -228,6 +228,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [PortProton](https://linux-gaming.ru/) - Game launcher
 - [RetroArch](https://www.retroarch.com/) - Classic game launcher
 - [ProtonUp](https://davidotek.github.io/protonup-qt/) - Proton GUI installer
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - Gnome Proton GUI installer
 - [Ryujinx](https://ryujinx.org/) - Nintendo Switch emulator
 - [Steam](https://store.steampowered.com/) - Game Library
 
