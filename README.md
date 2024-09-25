@@ -299,6 +299,21 @@ Memory: 64040MiB
 
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
+## 💥 Kernel & Arch Linux Speedup ⚞ • ⚟
+> [!NOTE]
+> _This small guide is for Arch Linux users ONLY to speed it up with CachyOS kernel, repository and settings!_  
+[**Overall Guide**](https://medium.com/illumination/solving-distro-hopping-by-building-the-ultimate-arch-7f431a825861)
+### 🔹 CachyOS Repository
+[Installation Guide](https://wiki-dev.cachyos.org/sk/cachyos_repositories/how_to_add_cachyos_repo/)  
+### 🔹 CachyOS Kernel
+[Installation Guide](https://wiki-dev.cachyos.org/sk/configuration/kernel-manager/#cachyos-kernel-manager)  
+`sudo pacman -S cachyos-kernel-manager`  
+I suggest to install **linux-cachyos-eevdf** kernel.  
+### 🔹 CachyOS Settings
+[Installation Guide](https://wiki.cachyos.org/features/cachyos_settings/)  
+`sudo pacman -S cachyos-settings`  
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
+
 ## :incoming_envelope: Contact ⚞ • ⚟
 
 Telegram: [neuromask](https://t.me/neuromask)<br/>
