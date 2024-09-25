@@ -82,7 +82,7 @@ Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebst
 - [Vitals](https://github.com/corecoding/Vitals) - System Monitor
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## 🍉 Apps ^·-·^
+## 🍉 Catppuccinize Apps ^·-·^
 
 ### 🔹 Visual Studio Code
 https://github.com/catppuccin/vscode - Mocha Theme  
@@ -220,7 +220,7 @@ Website: https://www.chezmoi.io/
 Manage your dotfiles across multiple diverse machines, securely.
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## :computer: Apps ≽^-˕-^≼
+## :computer: Install Apps ≽^-˕-^≼
 
 ### 🔹 Games
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
