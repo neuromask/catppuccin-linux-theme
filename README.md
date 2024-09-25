@@ -234,6 +234,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Steam](https://store.steampowered.com/) - Game Library
 
 ### 🔹 Applications
+- [Amberol](https://github.com/adamjatim/amberol) - Music player
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
