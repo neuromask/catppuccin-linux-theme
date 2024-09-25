@@ -225,6 +225,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 ### 🔹 Game Apps
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
 - [Lutris](https://lutris.net/) - Game launcher
+- [Modrinth](https://modrinth.com/) - Minecraft launcher
 - [PortProton](https://linux-gaming.ru/) - Game launcher
 - [RetroArch](https://www.retroarch.com/) - Classic game launcher
 - [ProtonUp](https://davidotek.github.io/protonup-qt/) - Proton GUI installer
@@ -232,20 +233,40 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Ryujinx](https://ryujinx.org/) - Nintendo Switch emulator
 - [Steam](https://store.steampowered.com/) - Game Library
 
-### 🔹 Applications
-- [Amberol](https://github.com/adamjatim/amberol) - Music player
-- [AppFlowy](https://www.appflowy.io/) - Notes
+### 🔹 Music Apps
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
+- [Amberol](https://github.com/adamjatim/amberol) - Music player
+- [Cider](https://cider.sh/) - Apple Music player
+- [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
+- [Spotify](https://open.spotify.com/) - Music player
+
+### 🔹 Video Apps
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editor
+- [Handbrake](https://handbrake.fr/) - Video converter
+- [OBS](https://obsproject.com) - Stream and video record
+- [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
+- [Showtime](https://kramo.page/showtime/) - Video player
+- [VLC](https://www.videolan.org/vlc/) - Media player
+
+### 🔹 Messenger Apps
+- [Discord](https://discord.com/) - Messenger
+- [Element](https://element.io/) - Messenger
+- [Telegram](https://telegram.org/) - Messenger
+- [Vencord](https://vencord.dev/) - Discord client
+
+### 🔹 Broswers
+- [Brave](https://brave.com/) - Browser with ad-blocker
+- [Chrome](https://www.google.com/intl/en/chrome/) - Browser
+- [Tor](https://www.torproject.org/) - Secure browser
+- [Zen](https://zen-browser.app/) - Mozilla based browser
+
+### 🔹 System Apps
+- [AppFlowy](https://www.appflowy.io/) - Notes
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
 - [BleachBit](https://www.bleachbit.org/) - Cleaner
 - [Blender](https://www.blender.org/) - 3D editor
-- [Brave](https://brave.com/) - Browser
-- [Chrome](https://www.google.com/intl/en/chrome/) - Browser
 - [Conky](https://github.com/brndnmtthws/conky) - System Monitor
 - [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Fan controller
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editor
-- [Discord](https://discord.com/) - Messenger
-- [Element](https://element.io/) - Messenger
 - [Etcher](https://etcher.balena.io/) - USB image maker
 - [Filezilla](https://filezilla-project.org/) - FTP Client
 - [Flameshot](https://flameshot.org/) - Screenshot capturer
@@ -257,30 +278,20 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Gnome tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Gnome tweaker
 - [Gparted](https://gparted.org/) - Partition manager
 - [Gradience](https://gradienceteam.github.io/) - Gnome theme manager
-- [Handbrake](https://handbrake.fr/) - Video converter
 - [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) - Remap keys, macros
 - [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Krita](https://krita.org/) - Photoshop analogue
-- [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Mailspring](https://www.getmailspring.com/) - Mail client
-- [Modrinth](https://modrinth.com/) - Minecraft launcher
-- [OBS](https://obsproject.com) - Stream and video record
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
 - [Postman](https://www.postman.com/) - DB Request manager
 - [Remmina](https://remmina.org/) - Remote desktop
-- [Shutter Encoder](https://www.shutterencoder.com/) - Video Converter
-- [Showtime](https://kramo.page/showtime/) - Video player
-- [Spotify](https://open.spotify.com/) - Music player
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
-- [Telegram](https://telegram.org/) - Messenger
 - [Timeshift](https://github.com/teejee2008/timeshift) - Backup manager
-- [Tor](https://www.torproject.org/) - Secure browser
 - [Ulauncher](https://ulauncher.io/) - Neat app launcher
 - [Ventoy](https://www.ventoy.net/en/index.html) - Multi USB ISO
-- [VLC](https://www.videolan.org/vlc/) - Media player
 - [VSC](https://code.visualstudio.com/) - Coding
 - [Waydroid](https://waydro.id/) - Android emulator
 - [qBittorrent](https://www.qbittorrent.org/) - Torrent client
