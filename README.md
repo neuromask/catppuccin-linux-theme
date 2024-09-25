@@ -310,9 +310,10 @@ Memory: 64040MiB
 [Installation Guide](https://wiki-dev.cachyos.org/sk/configuration/kernel-manager/#cachyos-kernel-manager)  
 `sudo pacman -S cachyos-kernel-manager`  
 I suggest to install **linux-cachyos-eevdf** kernel.  
-### 🔹 CachyOS Settings
+### 🔹 CachyOS Settings & Tweaks
 [Installation Guide](https://wiki.cachyos.org/features/cachyos_settings/)  
 `sudo pacman -S cachyos-settings`  
+[Tweaks](https://wiki.cachyos.org/configuration/general_system_tweaks/) - get some tweaks  
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
 ## :incoming_envelope: Contact ⚞ • ⚟
