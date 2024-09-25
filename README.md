@@ -239,7 +239,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Cider](https://cider.sh/) - Apple Music player
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Spotify](https://open.spotify.com/) - Music player
-- [Spotude](https://github.com/KRTirtho/spotube) - Open source Spotify client
+- [Spotude](https://spotube.krtirtho.dev/) - Open source Spotify client
 
 ### 🔹 Video
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video Editor
