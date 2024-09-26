@@ -285,6 +285,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Krita](https://krita.org/) - Photoshop analogue
 - [Mailspring](https://www.getmailspring.com/) - Mail client
+- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
 - [Postman](https://www.postman.com/) - DB Request manager
 - [Remmina](https://remmina.org/) - Remote desktop
