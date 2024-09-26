@@ -295,6 +295,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Ulauncher](https://ulauncher.io/) - Neat app launcher
 - [Ventoy](https://www.ventoy.net/en/index.html) - Multi USB ISO
 - [VSC](https://code.visualstudio.com/) - Coding
+- [Warehouse](https://github.com/flattool/warehouse) - Managing Flatpak user data
 - [Waydroid](https://waydro.id/) - Android emulator
 - [qBittorrent](https://www.qbittorrent.org/) - Torrent client
 
