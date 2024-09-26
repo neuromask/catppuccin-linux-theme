@@ -211,8 +211,13 @@ Website: https://ohmyz.sh/ | [Installation Guide](https://gist.github.com/yovko/
 Themes to choose: "duellj", "agnoster"  
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes  
 
+### 🔹 Fastfetch
+Relevant Files: [dot_files/.config/fastfetch](dot_files/.config/fastfetch)  
+Website: https://github.com/fastfetch-cli/fastfetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
+
 ### 🔹 Neofetch
-Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
+Relevant Files: [dot_files/.config/neofetch](dot_files/.config/neofetch)  
+Website: https://github.com/dylanaraps/neofetch | [Installation Guide](https://itsfoss.com/fine-control-fastfetch/)  
 Themes: https://github.com/Chick2D/neofetch-themes  
 
 ### 🔹 Chezmoi
