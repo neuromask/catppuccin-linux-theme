@@ -220,7 +220,7 @@ Website: https://www.chezmoi.io/
 Manage your dotfiles across multiple diverse machines, securely.
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## :computer: Install Apps ≽^-˕-^≼
+## 🍇 Install Apps ≽^-˕-^≼
 
 ### 🔹 Games
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
@@ -261,7 +261,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Tor](https://www.torproject.org/) - Secure browser
 - [Zen](https://zen-browser.app/) - Mozilla based browser
 
-### 🔹 System
+### 🔹 Misc
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
 - [BleachBit](https://www.bleachbit.org/) - Cleaner
@@ -296,6 +296,24 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [VSC](https://code.visualstudio.com/) - Coding
 - [Waydroid](https://waydro.id/) - Android emulator
 - [qBittorrent](https://www.qbittorrent.org/) - Torrent client
+
+<p><img src="assets/transparent.png" height="48" width="0px"/></p>
+
+## 🖥️ System ≽^-˕-^≼
+
+### 🔹 Recovery USB & Repair ISO
+> [!NOTE]
+> _Use [Ventoy App](https://www.ventoy.net/) to create USB stick with all needed tools to recover system._  
+- [Boot Repair Disk](https://sourceforge.net/p/boot-repair-cd/home/Home/) - Rescue Disk
+- [Clonezilla](https://clonezilla.org/) - Partition and disk imaging/cloning program
+- [Foxclone](https://foxclone.org/) - Backup, restore and clone tool 
+- [GParted](https://gparted.org/livecd.php) - Live CD for GParted app
+- [Redo Rescue](http://redorescue.com/) - Restores your system to perfect condition
+- [Super Grub2 Disk](https://www.supergrubdisk.org/) - Helps you to boot into most any OS
+- [System Rescue](https://www.system-rescue.org/) - Linux system rescue toolkit
+- [Fedora Live](https://fedoraproject.org/) - Boot to Fedora Live USB
+- [Knoppix Live](https://www.knopper.net/knoppix/index-en.html) - Boot to Knoppix Live USB 
+- [Manjaro Live](https://manjaro.org/) - Boot to Manjaro Live USB
 
 ### 🔹 System Specs
 - CPU: 12th Gen Intel i9-12900K (24) @ 5.100GHz  
