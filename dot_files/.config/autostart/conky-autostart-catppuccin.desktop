@@ -2,6 +2,10 @@
 Type=Application
 Exec=/bin/sh -c "$HOME/.config/conky/catppuccin-theme/start.sh"
 Hidden=false
+StartupNotify=false
+Terminal=false
+Icon=conky-logomark-violet
+Categories=System;Monitor;
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
 Name[en_US]=Conky Config Catppuccin
