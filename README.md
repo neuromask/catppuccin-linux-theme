@@ -242,6 +242,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Amberol](https://github.com/adamjatim/amberol) - Music player
 - [Cider](https://cider.sh/) - Apple Music player
+- [Cozy](https://cozy.sh/) - Modern audiobook player 
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
 - [Spotify](https://open.spotify.com/) - Music player
 - [Spotude](https://spotube.krtirtho.dev/) - Open source Spotify client
@@ -294,6 +295,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Krita](https://krita.org/) - Photoshop analogue
 - [Mailspring](https://www.getmailspring.com/) - Mail client
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU
+- [Notepad Next](https://github.com/dail8859/NotepadNext) - Reimplementation of Notepad++
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
 - [Postman](https://www.postman.com/) - DB Request manager
 - [Remmina](https://remmina.org/) - Remote desktop
