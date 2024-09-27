@@ -171,7 +171,7 @@ Use Gnome [Dconf Editor](https://apps.gnome.org/ru/DconfEditor/) to setup defaul
 `/com/github/stunkymonkey/nautilus-open-any-terminal/terminal`  
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## 💾 Terminal Apps ₍^. ̫.^₎
+## 🤓 CLI Apps ₍^. ̫.^₎
 
 ### 🔹 Neovim
 Website: https://neovim.io/  
@@ -308,7 +308,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
 
-## 🖥️ System ≽^-˕-^≼
+## 💾 System ≽^-˕-^≼
 
 ### 🔹 Recovery USB & Repair ISO
 > [!NOTE]
