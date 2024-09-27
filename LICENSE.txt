@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Pahasara DvNET (shinzo)
+Copyright (c) 2024 Aleksandr Dnb (neuromask)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
