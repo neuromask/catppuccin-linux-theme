@@ -266,6 +266,11 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Tor](https://www.torproject.org/) - Secure browser
 - [Zen](https://zen-browser.app/) - Mozilla based browser
 
+### 🔹 AI
+- [Alpaca](https://github.com/Jeffser/Alpaca) - Manage and chat with multiple models
+- [Jan](https://jan.ai/) - AI text model manager
+- [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
+
 ### 🔹 Misc
 - [AppFlowy](https://www.appflowy.io/) - Notes
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Database manager
@@ -279,14 +284,12 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Flathub](https://flathub.org/) - App manager
 - [Fontbase](https://fontba.se/) - Font manager
 - [Furnace](https://github.com/tildearrow/furnace) - Chiptune tracker
-- [GIMP](https://www.gimp.org/) - Image editor
 - [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - GPU Info
 - [Gnome tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Gnome tweaker
 - [Gparted](https://gparted.org/) - Partition manager
 - [Gradience](https://gradienceteam.github.io/) - Gnome theme manager
 - [Inkscape](https://wiki.inkscape.org/wiki/Installing_Inkscape) - Vector editor
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) - Remap keys, macros
-- [Jan](https://jan.ai/) - AI text model manager
 - [Kitty](https://sw.kovidgoyal.net/kitty/) - Terminal
 - [Krita](https://krita.org/) - Photoshop analogue
 - [Mailspring](https://www.getmailspring.com/) - Mail client
@@ -294,7 +297,6 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
 - [Postman](https://www.postman.com/) - DB Request manager
 - [Remmina](https://remmina.org/) - Remote desktop
-- [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
 - [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - System information & Cleaner
 - [Timeshift](https://github.com/teejee2008/timeshift) - Backup manager
 - [Ulauncher](https://ulauncher.io/) - Neat app launcher
