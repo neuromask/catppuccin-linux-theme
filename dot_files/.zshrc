@@ -97,10 +97,7 @@ alias :q="exit"
 alias py="python"
 alias vim="nvim"
 alias nf="neofetch"
-alias ls='eza --icons --color=always --group-directories-first'
-alias ll='eza -alF --icons --color=always --group-directories-first'
-alias la='eza -a --icons --color=always --group-directories-first'
-alias l='eza -F --icons --color=always --group-directories-first'
+alias ff="fastfetch"
 alias l.='eza -a | egrep "^\."'
 alias mk="musikcube"
 alias z="./.local/bin/zero/Zero.CLI"
@@ -115,3 +112,6 @@ alias ns="notify-send 'Arch Linux' 'DAMN! You have not riced me since last month
 alias uu="./.local/bin/check-update"
 alias jr="java"
 alias jc="javac"
+alias ck="~/.config/conky/catppuccin-theme/start.sh"
+alias grubup="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+export PATH=$PATH:/home/nmask/.spicetify
