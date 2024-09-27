@@ -12,11 +12,11 @@
         //}
         "source": "~/.config/fastfetch/archpuccinn.png",
         "type": "kitty",
-        "height": 14,
-        "width": 30,
+        "height": 16,
+        "width": 34,
         "padding": {
-            "top": 5,
-           "left": 3
+            "top": 4,
+           "left": 4
         }
     },
     "modules": [
