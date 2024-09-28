@@ -306,6 +306,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [VSC](https://code.visualstudio.com/) - Coding
 - [Warehouse](https://github.com/flattool/warehouse) - Managing Flatpak user data
 - [Waydroid](https://waydro.id/) - Android emulator
+- [Wireshark](https://www.wireshark.org/) - Network protocol analyzer
 - [qBittorrent](https://www.qbittorrent.org/) - Torrent client
 
 <p><img src="assets/transparent.png" height="48" width="0px"/></p>
