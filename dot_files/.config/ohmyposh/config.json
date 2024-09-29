@@ -75,7 +75,7 @@
         {
           "foreground": "#eba0ac",
           "style": "diamond",
-          "template": "<#ffffff>\udb80\udddd</> <#ffffff>RAM:</> {{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB ",
+          "template": " <#ffffff>MEM:</> {{ round .PhysicalPercentUsed .Precision }}% ({{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 2073741824.0) }}/{{ (div .PhysicalTotalMemory 1073741824.0) }}GB)",
           "type": "sysinfo"
         }
       ],
