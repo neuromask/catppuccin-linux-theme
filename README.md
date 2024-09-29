@@ -16,7 +16,7 @@
 ## 🐱 Preview ᓚ₍ ^. .^₎
 
 <p align="center">
-	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_06.png"><img src="./assets/screen_06.png" width="49%"/></a>
+	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_08.png"><img src="./assets/screen_08.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/screen_05.png"><img src="./assets/screen_05.png" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p1.jpg"><img src="./assets/p1.jpg" width="49%"/></a>
 	<a href="https://raw.githubusercontent.com/neuromask/catppuccin-linux-theme/main/assets/p2.jpg"><img src="./assets/p2.jpg" width="49%"/></a>
