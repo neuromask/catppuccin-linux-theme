@@ -51,7 +51,7 @@ Use [Gnome Tweaks](https://docs.rockylinux.org/desktop/gnome/gnome-tweaks/) to s
 Copy `Catppuccin-GnomeTheme/gtk-4.0` folder here `/home/.config/gtk-4.0`  
 Copy `Catppuccin-GnomeTheme/gtk-3.0` folder here `/home/.config/gtk-3.0`  
 
-**Flatpack Apps**  
+**Flatpack Apps** | [Guide](https://itsfoss.com/flatpak-app-apply-theme/)  
 Enable GTK theme for Flatpack apps run:  
 `sudo flatpak override --filesystem=$HOME/.themes`  
 `sudo flatpak override --env=GTK_THEME=Catppuccin-GnomeTheme`  
