@@ -276,6 +276,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Alpaca](https://github.com/Jeffser/Alpaca) - Manage and chat with multiple models
 - [Jan](https://jan.ai/) - AI text model manager
 - [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - AI engines manager
+- [Upskayl](https://upscayl.org/) - Image upscaler
 
 ### 🔹 Misc
 - [AppFlowy](https://www.appflowy.io/) - Notes
