@@ -75,6 +75,7 @@ Website: https://extensions.gnome.org/ |  [Chrome Extension](https://chromewebst
 **Entesions**
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock) - Control Dock Icons
 - [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - 3D Workspace Switcher
+- [Tiling Shell](https://github.com/domferr/tilingshell) - Windows tiling system
 - [Space Bar](https://github.com/christopher-l/space-bar) - Workspace Indicator in Topbar
 - [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window animation effects
 - [Fly Pie](https://github.com/Schneegans/Fly-Pie/tree/main) - Quick Navigation (or use Ulauncher app instead)
