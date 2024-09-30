@@ -288,6 +288,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Filezilla](https://filezilla-project.org/) - FTP Client
 - [Flameshot](https://flameshot.org/) - Screenshot capturer
 - [Flathub](https://flathub.org/) - App manager
+- [Flatseal](https://github.com/tchx84/flatseal) - Permissions for Flatpak applications
 - [Fontbase](https://fontba.se/) - Font manager
 - [Furnace](https://github.com/tildearrow/furnace) - Chiptune tracker
 - [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - GPU Info
