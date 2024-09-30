@@ -232,6 +232,15 @@ Manage your dotfiles across multiple diverse machines, securely.
 
 ## 🍇 Install Apps ≽^-˕-^≼
 
+### CLI Apps
+- [BTOP](https://terminaltrove.com/btop/) - System Monitor
+- [Cava](https://github.com/karlstav/cava) - Music visualizer
+- [Cbonsai](https://github.com/mhzawadi/homebrew-cbonsai) - Bonsai tree generator
+- [Musikcibe](https://github.com/clangen/musikcube) - Audio engine, library, player
+- [Neo matrix](https://github.com/st3w/neo) | [aur](https://aur.archlinux.org/packages/neo-matrix-git) - Matrix rain generator
+- [Pyradio](https://github.com/catppuccin/pyradio) - Internet radio (theme select: `t` and `space`)
+- [Yazi](https://github.com/sxyazi/yazi) - File manager
+
 ### 🔹 Games
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - Epic, GOG and Amazon Prime Games launcher
 - [Lutris](https://lutris.net/) - Game launcher
