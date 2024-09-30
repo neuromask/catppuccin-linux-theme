@@ -246,6 +246,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 ### 🔹 Music
 - [Audacity](https://www.audacityteam.org/) - Audio files editor
 - [Amberol](https://github.com/adamjatim/amberol) - Music player
+- [Blanket](https://github.com/rafaelmardojai/blanket) - Listen to different ambient sounds
 - [Cider](https://cider.sh/) - Apple Music player
 - [Cozy](https://cozy.sh/) - Modern audiobook player 
 - [Lollypop](https://wiki.gnome.org/Apps/Lollypop) - Music player
