@@ -291,6 +291,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Flatseal](https://github.com/tchx84/flatseal) - Permissions for Flatpak applications
 - [Fontbase](https://fontba.se/) - Font manager
 - [Furnace](https://github.com/tildearrow/furnace) - Chiptune tracker
+- [Gear Lever](https://mijorus.it/projects/gearlever/) - Appimage manager
 - [GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - GPU Info
 - [Gnome tweaks](https://gitlab.gnome.org/GNOME/gnome-tweaks) - Gnome tweaker
 - [Gparted](https://gparted.org/) - Partition manager
