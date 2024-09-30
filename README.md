@@ -304,6 +304,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 - [Krita](https://krita.org/) - Photoshop analogue
 - [Mailspring](https://www.getmailspring.com/) - Mail client
 - [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU
+- [LocalSend](https://localsend.org/) - Airdrop alternative, local files sharing
 - [Notepad Next](https://github.com/dail8859/NotepadNext) - Reimplementation of Notepad++
 - [OpenRGB](https://openrgb.org/) - Control RGB lights
 - [Postman](https://www.postman.com/) - DB Request manager
