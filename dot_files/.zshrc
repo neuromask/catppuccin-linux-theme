@@ -6,10 +6,9 @@ export PATH="$PATH:$HOME/.local/bin"
 # Cargo bin path
 export PATH=$PATH:~/.cargo/bin/
 
-# brew environment variables
-[ -d /home/linuxbrew/.linuxbrew ] && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
-export XDG_DATA_DIRS="/home/linuxbrew/.linuxbrew/share:$XDG_DATA_DIRS"
-export PATH="/opt/homebrew/bin:$PATH"
+# environment variables
+
+export PATH=$PATH:/home/nmask/.spicetify
 
 
 #############
@@ -86,8 +85,12 @@ fi
 source <(fzf --zsh)
 eval "$(zoxide init zsh)"
 
-# Install zsh and ohmyposh curl -s https://ohmyposh.dev/install.sh | bash -s -- -d ~/bin
+# OMP init
 eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/config.json)"
+
+# Starship init
+# eval "$(starship init zsh)"
+
 
 
 ######################
@@ -114,4 +117,6 @@ alias jr="java"
 alias jc="javac"
 alias ck="~/.config/conky/catppuccin-theme/start.sh"
 alias grubup="sudo grub-mkconfig -o /boot/grub/grub.cfg"
-export PATH=$PATH:/home/nmask/.spicetify
+alias matrix="neo-matrix -aD --colormode=16"
+alias toolbox="curl -fsSL https://christitus.com/linuxdev | sh"
+alias c="clear"
