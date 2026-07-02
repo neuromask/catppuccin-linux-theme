@@ -222,7 +222,7 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 ### 🔹 Fastfetch
 Relevant Files: [dot_files/.config/fastfetch](dot_files/.config/fastfetch)  
-Website: https://github.com/fastfetch-cli/fastfetch | [Installation Guide](https://github.com/dylanaraps/neofetch/wiki/Installation)  
+Website: https://github.com/fastfetch-cli/fastfetch | [Installation Guide](https://github.com/fastfetch-cli/fastfetch#installation)  
 
 ### 🔹 Neofetch
 Relevant Files: [dot_files/.config/neofetch](dot_files/.config/neofetch)  
